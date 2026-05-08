@@ -1,16 +1,29 @@
 name: Update Daily Feed
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight UTC
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
+
+# This sets the env variable globally for the whole workflow
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # Updated to v5 (assuming v5+ is out to support Node 24 by now)
+      # If v5 isn't available, v4 will still work better with the env flag
+      - uses: actions/checkout@v5 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
       - name: Generate XML
         run: python generate_feed.py
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
