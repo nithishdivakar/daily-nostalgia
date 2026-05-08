@@ -1,10 +1,9 @@
 name: Update Daily Feed
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch: 
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
-# This sets the env variable globally for the whole workflow
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -12,17 +11,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Updated to v5 (assuming v5+ is out to support Node 24 by now)
-      # If v5 isn't available, v4 will still work better with the env flag
-      - uses: actions/checkout@v5 
+      - uses: actions/checkout@v5
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
+      # We skip actions/setup-python and use the system python
       - name: Generate XML
-        run: python generate_feed.py
+        run: |
+          python3 --version
+          python3 generate_feed.py
 
       - name: Commit and Push
         run: |
