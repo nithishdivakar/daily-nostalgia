@@ -6,7 +6,7 @@ import email.utils
 # --- CONFIGURATION ---
 INPUT_FILE = 'links.json'
 OUTPUT_FILE = 'feed.xml'
-BATCH_SIZE = 3  # How many articles to resurface daily
+BATCH_SIZE = 17  # How many articles to resurface daily
 
 def generate_rss():
     # 1. Load your link collection
