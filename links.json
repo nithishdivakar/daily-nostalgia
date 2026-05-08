@@ -1,27 +1,4582 @@
 [
-  {"title": "Chesterton’s Fence: A Lesson in Thinking", "url": "https://fs.blog/chestertons-fence/"},
-  {"title": "How to get promoted", "url": "https://spakhm.substack.com/p/how-to-get-promoted"},
-  {"title": "Leverage Points: Places to Intervene in a System", "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"},
-  {"title": "EWD831: Why numbering should start at zero", "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html"},
-  {"title": "The importance of saying 'no'", "url": "https://celandine13.livejournal.com/33599.html"},
-  {"title": "How to do things manually", "url": "https://apenwarr.ca/log/20190926"},
-  {"title": "Reality has a surprising amount of detail", "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"},
-  {"title": "My First BillG Review", "url": "https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/"},
-  {"title": "Geeks, Mops, and Sociopaths in Creative Subcultures", "url": "https://meaningness.com/geeks-mops-sociopaths"},
-  {"title": "Muscle: The Ultimate Guide to Building Lean Muscle", "url": "https://www.julian.com/guide/muscle/workout-plans"},
-  {"title": "Blowing Up", "url": "https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/03/NYorker2002-blowingup.pdf"},
-  {"title": "The Dunning-Kruger Effect: On Being Ignorant of Our Own Ignorance", "url": "https://psmag.com/social-justice/confident-idiots-92793"},
-  {"title": "Looking back at two years at Automattic and Tumblr", "url": "https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/"},
-  {"title": "Your brain is like a hoarder", "url": "https://theoatmeal.com/comics/brain_compliments"},
-  {"title": "The Distribution of Talent", "url": "https://www.thewoodshedd.com/posts/2021-08-16-talentdistribution/"},
-  {"title": "Hemingway Editor", "url": "https://hemingwayapp.com/"},
-  {"title": "David Foster Wallace: This Is Water", "url": "https://fs.blog/david-foster-wallace-this-is-water/"},
-  {"title": "You're not unhappy, you're just bored", "url": "https://theoatmeal.com/comics/unhappy"},
-  {"title": "Jobsearch.dev", "url": "https://www.jobsearch.dev/"},
-  {"title": "Convincing Failure", "url": "https://boz.com/articles/failure-theory"},
-  {"title": "The Law of Leaky Abstractions", "url": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"},
-  {"title": "Quantum Computing Since Democritus", "url": "http://www.scottaaronson.com/blog/?p=2410"},
-  {"title": "The Gervais Principle", "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"},
-  {"title": "Genius", "url": "http://www.paulgraham.com/genius.html"},
-  {"title": "Crony Beliefs", "url": "https://meltingasphalt.com/crony-beliefs/"}
+  {
+    "title": "Floyd's Sampling Algorithm",
+    "url": "https://buttondown.com/jaffray/archive/floyds-sampling-algorithm/"
+  },
+  {
+    "title": "The Miller Principle",
+    "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/"
+  },
+  {
+    "title": "Post training distillation in llms",
+    "url": "https://drive.google.com/file/d/1xMohjQcTmQuUd_OiZ3hB1r47WB1WM3Am/view"
+  },
+  {
+    "title": "Typography in ten minutes | Butterick's Practical Typography",
+    "url": "https://practicaltypography.com/typography-in-ten-minutes.html"
+  },
+  {
+    "title": "A peek behind Colossus, Google's file system | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system"
+  },
+  {
+    "title": "Algorithms to live by the computer science of tom annas archive libgenrs nf",
+    "url": "https://kolegite.com/EE_library/books_and_lectures/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5/algorithms-to-live-by-the-computer-science-of-tom--annas-archive--libgenrs-nf-3206012.pdf"
+  },
+  {
+    "title": "POSSE - IndieWeb",
+    "url": "https://indieweb.org/POSSE"
+  },
+  {
+    "title": "Being John Rawls",
+    "url": "https://www.astralcodexten.com/p/being-john-rawls"
+  },
+  {
+    "title": "Friend Bubbles: Enhancing Social Discovery on Facebook Reels - Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/"
+  },
+  {
+    "title": "On The Independence Axiom -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/MsjWPWjAerDtiQ3Do/on-the-independence-axiom"
+  },
+  {
+    "title": "I beg you to follow Crocker's Rules, even if you will be rude to me | La Vita Nouva",
+    "url": "https://lr0.org/blog/p/crocker/"
+  },
+  {
+    "title": "What If We Looked At All Of Questionspace?",
+    "url": "https://aella.substack.com/p/what-if-we-looked-at-all-of-questionspace?r=bhul5&utm_campaign=post&utm_medium=web&triedRedirect=true&_src_ref=t.co"
+  },
+  {
+    "title": "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
+    "url": "https://dnhkng.github.io/posts/rys/"
+  },
+  {
+    "title": "Personality: The Body in Society | Melting Asphalt",
+    "url": "https://meltingasphalt.com/personality-the-body-in-society/"
+  },
+  {
+    "title": "How to win a best paper award (or, an opinionated take on how to do important research)",
+    "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html"
+  },
+  {
+    "title": "SuperMemo - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/SuperMemo"
+  },
+  {
+    "title": "Two Stories",
+    "url": "https://www.joelonsoftware.com/2000/03/19/two-stories/"
+  },
+  {
+    "title": "Claude cycles",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
+  },
+  {
+    "title": "DP optimization - WQS Binary Search Optimization",
+    "url": "https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html"
+  },
+  {
+    "title": "Decision Trees",
+    "url": "https://mlu-explain.github.io/decision-tree/"
+  },
+  {
+    "title": "GitHub - Siwoo4985/Micro-Diffusion: The essence of text diffusion in ~150 lines of pure Python. Inspired by Karpathy's MicroGPT.",
+    "url": "https://github.com/Siwoo4985/Micro-Diffusion"
+  },
+  {
+    "title": "You Would Be a Terrible Leader",
+    "url": "https://youtu.be/rStL7niR7gs?si=ifXnLDrVnt-3MLZU"
+  },
+  {
+    "title": "108573518762776451 | D-Squared Digest",
+    "url": "https://dsquareddigest.wordpress.com/2004/05/27/108573518762776451/"
+  },
+  {
+    "title": "Sizing chaos",
+    "url": "https://pudding.cool/2026/02/womens-sizing/"
+  },
+  {
+    "title": "How to think about enemies: the example of Greenpeace",
+    "url": "https://cognition.cafe/p/how-to-think-about-enemies-the-example"
+  },
+  {
+    "title": "You're an AI Expert - Not an Influencer -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/hCtm7rxeXaWDvrh4j/you-re-an-ai-expert-not-an-influencer"
+  },
+  {
+    "title": "Politics and the English Language | The Orwell Foundation",
+    "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/"
+  },
+  {
+    "title": "Work at a Frontier Lab",
+    "url": "https://www.workatafrontierlab.com/"
+  },
+  {
+    "title": "CSS scrollbar-gutter: stable | modern.css",
+    "url": "https://modern-css.com/preventing-layout-shift-from-scrollbar/"
+  },
+  {
+    "title": "Smartphones and being present | Herman's blog",
+    "url": "https://herman.bearblog.dev/being-present/"
+  },
+  {
+    "title": "GitHub - tuan3w/awesome-tech-rss: List of awesome RSS channels related to startup, science and technology.",
+    "url": "https://github.com/tuan3w/awesome-tech-rss"
+  },
+  {
+    "title": "People Will Sometimes Just Lie About You -- EA Forum",
+    "url": "https://forum.effectivealtruism.org/posts/2eotFCxvFjXH7zNNw/people-will-sometimes-just-lie-about-you"
+  },
+  {
+    "title": "Fruit of Preterition",
+    "url": "https://charlesr-w.github.io/crw-blog/"
+  },
+  {
+    "title": "Vocal Guide - by Jesper Ordrup",
+    "url": "https://jesperordrup.github.io/vocal-guide/#chest-voice"
+  },
+  {
+    "title": "Toyota Production System | Vision & Philosophy | Company | Toyota Motor Corporation Official Global Website",
+    "url": "https://global.toyota/en/company/vision-and-philosophy/production-system/"
+  },
+  {
+    "title": "Welcome to the Room",
+    "url": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/"
+  },
+  {
+    "title": "Introduction",
+    "url": "https://www.fieggen.com/shoelace/"
+  },
+  {
+    "title": "The Most Popular Blogs of Hacker News in 2025",
+    "url": "https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b"
+  },
+  {
+    "title": "Visualizing Rectified Flows",
+    "url": "https://alechelbling.com/blog/rectified-flow/"
+  },
+  {
+    "title": "If you have multiple interests, do not waste the next 2-3 years",
+    "url": "https://x.com/thedankoe/status/2010042119121957316?s=46"
+  },
+  {
+    "title": "\"Attention\", \"Transformers\", in Neural Network \"Large Language Models\"",
+    "url": "https://web.archive.org/web/20250820184917/http://bactra.org/notebooks/nn-attention-and-transformers.html"
+  },
+  {
+    "title": "How to Win Friends And Influence People Unrevised Edition by Dale Carnegie",
+    "url": "https://socialskillswisdom.com/"
+  },
+  {
+    "title": "Numerics in World Models",
+    "url": "https://0x00b1.github.io/blog/2025/12/25/numerics-in-world-models/"
+  },
+  {
+    "title": "2025 year in review | Kevin Liu",
+    "url": "https://kliu.io/post/2025-year-in-review/"
+  },
+  {
+    "title": "Deriving the PPO Loss from First Principles",
+    "url": "https://huggingface.co/blog/garg-aayush/ppo-from-first-principle"
+  },
+  {
+    "title": "The Evolution of Trust",
+    "url": "https://ncase.me/trust/"
+  },
+  {
+    "title": "Buteyko method",
+    "url": "https://en.wikipedia.org/wiki/Buteyko_method"
+  },
+  {
+    "title": "Premature Imitation and India's Flailing State",
+    "url": "https://www.independent.org/pdf/tir/tir_24_2_01_rajagopalan.pdf"
+  },
+  {
+    "title": "How NVIDIA Turned 'Gaming GPUs Go Brrr' Into 'Actually We Can Read The Language of Life Now' (Part 1 of 2)",
+    "url": "https://aval.bearblog.dev/nvidiaproteins/"
+  },
+  {
+    "title": "bye, mom",
+    "url": "https://aella.substack.com/p/bye-mom"
+  },
+  {
+    "title": "Implementing FSRS in 100 Lines",
+    "url": "https://borretti.me/article/implementing-fsrs-in-100-lines"
+  },
+  {
+    "title": "My implementation of a personal mnemonic medium",
+    "url": "https://notes.andymatuschak.org/My_implementation_of_a_personal_mnemonic_medium"
+  },
+  {
+    "title": "Learning to love mesh-oriented sharding : ezyang's blog",
+    "url": "https://blog.ezyang.com/2025/12/learning-to-love-mesh-oriented-sharding/"
+  },
+  {
+    "title": "The mundanity of excellence",
+    "url": "https://gwern.net/doc/psychology/1989-chambliss.pdf"
+  },
+  {
+    "title": "Better Conversations with Alice Through The Looking Glass",
+    "url": "https://tantongibbs.substack.com/p/alice-through-the-looking-glass"
+  },
+  {
+    "title": "The Philosopher-Builder",
+    "url": "https://blog.cosmos-institute.org/p/the-philosopher-builder"
+  },
+  {
+    "title": "WHAT IS CONSERVATIVE SOCIAL AND POLITICAL THOUGHT ?",
+    "url": "https://s3.us-east-2.amazonaws.com/craft-cdi/wp/uploads/2018/02/Muller.1997.Conservatism_introduction.pdf"
+  },
+  {
+    "title": "hcker.news - Personal blogs only",
+    "url": "https://hcker.news/"
+  },
+  {
+    "title": "2025_11_23_emacs_for_code_editing",
+    "url": "https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"
+  },
+  {
+    "title": "Scientific Spaces|Scientific Spaces",
+    "url": "https://spaces.ac.cn/"
+  },
+  {
+    "title": "What I Wish Someone Had Told Me About the World | my personal blog",
+    "url": "https://rtaoblog.com/what-i-wish-someone-had-told-me-about-the-world"
+  },
+  {
+    "title": "Origami Sonobe",
+    "url": "https://en.wikipedia.org/wiki/Sonobe"
+  },
+  {
+    "title": "How It Works | book.sv",
+    "url": "https://book.sv/how-it-works"
+  },
+  {
+    "title": "The Hunger Games",
+    "url": "https://substack.com/inbox/post/178035580?utm_campaign=post&utm_medium=web&triedRedirect=true"
+  },
+  {
+    "title": "Proximal Policy Optimization Algorithms",
+    "url": "https://arxiv.org/abs/1707.06347"
+  },
+  {
+    "title": "Let's Build the GPT Tokenizer: A Complete Guide to Tokenization in LLMs - fast.ai",
+    "url": "https://www.fast.ai/posts/2025-10-16-karpathy-tokenizers"
+  },
+  {
+    "title": "Sliding window Reference",
+    "url": "https://arxiv.org/pdf/2409.14517"
+  },
+  {
+    "title": "The Electric Slide",
+    "url": "https://www.notboring.co/p/the-electric-slide?selection=a3f51540-75f3-4bbf-9a80-39deede0cf22"
+  },
+  {
+    "title": "Recent Trends in Personalization: A Netflix Perspective",
+    "url": "https://www.slideshare.net/slideshow/recent-trends-in-personalization-a-netflix-perspective/149944957"
+  },
+  {
+    "title": "Sutton JAGI",
+    "url": "http://www.incompleteideas.net/papers/Sutton-JAGI-2020.pdf"
+  },
+  {
+    "title": "The Ultra-Scale Playbook - a Hugging Face Space by nanotron",
+    "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview"
+  },
+  {
+    "title": "An Opinionated Guide to ML Research",
+    "url": "http://joschu.net/blog/opinionated-guide-ml-research.html"
+  },
+  {
+    "title": "DeepSeek-V3.2-Exp/DeepSeek_V3_2.pdf",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf"
+  },
+  {
+    "title": "Inside NVIDIA GPUs: Anatomy of high performance matmul kernels - Aleksa Gordi",
+    "url": "https://www.aleksagordic.com/blog/matmul"
+  },
+  {
+    "title": "Note To My Younger Self",
+    "url": "https://yewjin.substack.com/p/note-to-my-younger-self?r=ewzt3&utm_campaign=post&utm_medium=web&triedRedirect=true"
+  },
+  {
+    "title": "Max Mynter - Full Stack Machine Learning Engineer",
+    "url": "https://www.maxmynter.com/pages/blog/jobhunt"
+  },
+  {
+    "title": "The End of Thinking",
+    "url": "https://www.derekthompson.org/p/the-end-of-thinking"
+  },
+  {
+    "title": "Basic facts about policy gradients",
+    "url": "https://damek.github.io/random/basic-facts-about-policy-gradients/"
+  },
+  {
+    "title": "Stochastic Gradient Descent - A first look",
+    "url": "https://damek.github.io/STAT-4830/section/6/notes.html"
+  },
+  {
+    "title": "Work log template for Software Engineers (The Pragmatic Engineer) [Make a Copy]",
+    "url": "https://docs.google.com/document/d/1PK1HGa3HViKSJhAhvQgZNEYB72J0DhcXPNKuSpI4N80/mobilebasic"
+  },
+  {
+    "title": "Welcome to Spinning Up in Deep RL! -- Spinning Up documentation",
+    "url": "https://spinningup.openai.com/en/latest/"
+  },
+  {
+    "title": "Paged Attention from First Principles: A View Inside vLLM",
+    "url": "https://hamzaelshafie.bearblog.dev/paged-attention-from-first-principles-a-view-inside-vllm/"
+  },
+  {
+    "title": "You no longer need JavaScript",
+    "url": "https://lyra.horse/blog/2025/08/you-dont-need-js/"
+  },
+  {
+    "title": "Shallow Feedback Hollows You Out",
+    "url": "https://nothinghuman.substack.com/p/shallow-feedback-hollows-you-out"
+  },
+  {
+    "title": "Relationships are coevolutionary loops",
+    "url": "https://www.henrikkarlsson.xyz/p/making-a-home-together"
+  },
+  {
+    "title": "Distributed Training Lexicon",
+    "url": "https://distributedlexicon.com/"
+  },
+  {
+    "title": "Defeating Nondeterminism in LLM Inference",
+    "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/"
+  },
+  {
+    "title": "GPU Networking Basics, Part 1",
+    "url": "https://www.chipstrat.com/p/gpu-networking-basics-part-1?r=4pkows&utm_medium=ios&triedRedirect=true"
+  },
+  {
+    "title": "GitHub - leochlon/hallbayes",
+    "url": "https://github.com/leochlon/hallbayes"
+  },
+  {
+    "title": "A Visual Guide to Quantization",
+    "url": "https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "https://medium.com/@acu192/how-close-is-close-01dc845df52a",
+    "url": "https://medium.com/@acu192/how-close-is-close-01dc845df52a"
+  },
+  {
+    "title": "On the Theoretical Limitations of Embedding-Based Retrieval",
+    "url": "https://arxiv.org/abs/2508.21038"
+  },
+  {
+    "title": "Brainstellar Puzzles from Quant Interviews",
+    "url": "https://brainstellar.com/"
+  },
+  {
+    "title": "Recommendation Systems by Ullman",
+    "url": "http://infolab.stanford.edu/~ullman/mmds/ch9.pdf"
+  },
+  {
+    "title": "Learning a Personalized Homepage",
+    "url": "https://netflixtechblog.com/learning-a-personalized-homepage-aa8ec670359a"
+  },
+  {
+    "title": "Reach mit",
+    "url": "https://www.cs.princeton.edu/courses/archive/spr09/cos423/Lectures/reach-mit.pdf"
+  },
+  {
+    "title": "Dennyzhou.github",
+    "url": "https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf"
+  },
+  {
+    "title": "Taking credit for Tech Leading (w/o feeling like a jerk)",
+    "url": "https://docs.google.com/presentation/d/1TRCBzPhmD6MMJ1eoLKa2GtFYMFByVlj2jcXgT41SYEE/mobilepresent?slide=id.p"
+  },
+  {
+    "title": "Deep Learning based Recommender System: A Survey and New Perspectives",
+    "url": "https://arxiv.org/abs/1707.07435"
+  },
+  {
+    "title": "AI Safety Needs Great Engineers",
+    "url": "https://www.alignmentforum.org/posts/YDF7XhMThhNfHfim9/ai-safety-needs-great-engineers"
+  },
+  {
+    "title": "YaRN: Efficient Context Window Extension of Large Language Models",
+    "url": "https://arxiv.org/abs/2309.00071"
+  },
+  {
+    "title": "How to Pick Your Life Partner - Part 1",
+    "url": "https://waitbutwhy.com/2014/02/pick-life-partner.html"
+  },
+  {
+    "title": "The Brute Squad | Sourcegraph Blog",
+    "url": "https://sourcegraph.com/blog/the-brute-squad"
+  },
+  {
+    "title": "Building Effective AI Agents \\ Anthropic",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents"
+  },
+  {
+    "title": "What Google Translate Can Tell Us About Vibecoding | Ingrid's Space",
+    "url": "https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/"
+  },
+  {
+    "title": "The Replacing Guilt series",
+    "url": "https://mindingourway.com/guilt/"
+  },
+  {
+    "title": "Half-assing it with everything you've got",
+    "url": "https://mindingourway.com/half-assing-it-with-everything-youve-got/"
+  },
+  {
+    "title": "Post 43: Intentionally Making Close Friends -- Neel Nanda",
+    "url": "https://www.neelnanda.io/blog/43-making-friends"
+  },
+  {
+    "title": "Up or Out: Solving the IT Turnover Crisis",
+    "url": "https://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis"
+  },
+  {
+    "title": "Why We Think",
+    "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+  },
+  {
+    "title": "Ingressing Minds: Causal Patterns Beyond Genetics and Environment in Natural, Synthetic, and Hybrid Embodiments",
+    "url": "https://osf.io/5g2xj_v1"
+  },
+  {
+    "title": "Sharing everything I could understand about gradient noise",
+    "url": "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html"
+  },
+  {
+    "title": "It's okay to be (at least a little) irrational",
+    "url": "https://www.lesswrong.com/posts/Yiv9BeroBhJC6zqSs/it-s-okay-to-be-at-least-a-little-irrational"
+  },
+  {
+    "title": "Mini Blog Post 19: On systems - Living a life of zero willpower",
+    "url": "https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower"
+  },
+  {
+    "title": "How to write good prompts",
+    "url": "https://andymatuschak.org/prompts/"
+  },
+  {
+    "title": "How Developers Stop Learning: Rise of the Expert Beginner",
+    "url": "https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/"
+  },
+  {
+    "title": "Your Manager Is Not Your Best Friend",
+    "url": "https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html"
+  },
+  {
+    "title": "Ranking by Engagement | Tom Cunningham",
+    "url": "https://tecunningham.github.io/posts/2023-04-28-ranking-by-engagement.html"
+  },
+  {
+    "title": "How to Build an Agent - Amp",
+    "url": "https://ampcode.com/how-to-build-an-agent"
+  },
+  {
+    "title": "The Strength of Weak Ties by Mark S. Granovetter",
+    "url": "https://visiblenetworklabs.com/wp-content/uploads/2019/08/The-Strength-of-Weak-Ties.pdf"
+  },
+  {
+    "title": "Beware of fast-math",
+    "url": "https://simonbyrne.github.io/notes/fastmath/"
+  },
+  {
+    "title": "The radix 2^51 trick",
+    "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html"
+  },
+  {
+    "title": "Notes",
+    "url": "https://brajeshwar.com/2025/notes/"
+  },
+  {
+    "title": "Eng org seniority-mix model.",
+    "url": "https://lethain.com/engineering-cost-model/"
+  },
+  {
+    "title": "Stuff I learned at Carta.",
+    "url": "https://lethain.com/stuff-learned-at-carta/"
+  },
+  {
+    "title": "500 Lines or LessA Python Interpreter Written in Python",
+    "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+  },
+  {
+    "title": "Word2vec from Scratch",
+    "url": "https://jaketae.github.io/study/word2vec/"
+  },
+  {
+    "title": "Productivity Tools - DSri Seah",
+    "url": "https://davidseah.com/productivity-tools/"
+  },
+  {
+    "title": "20140602024642 22330283 avoiding the unintended consequences of casual feedback",
+    "url": "https://www.linkedin.com/pulse/20140602024642-22330283-avoiding-the-unintended-consequences-of-casual-feedback/"
+  },
+  {
+    "title": "how to become gently interesting",
+    "url": "https://lananhngvu.substack.com/p/how-to-become-gently-interesting"
+  },
+  {
+    "title": "The magic of software; or, what makes a good engineer also makes a good engineering organization",
+    "url": "https://moxie.org/2024/09/23/a-good-engineer.html"
+  },
+  {
+    "title": "Five principles for successfully managing managers",
+    "url": "https://www.lennysnewsletter.com/p/five-principles-for-successfully?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Experts have it easy",
+    "url": "https://boydkane.com/essays/experts"
+  },
+  {
+    "title": "A simple search engine from scratch*",
+    "url": "https://bernsteinbear.com/blog/simple-search/"
+  },
+  {
+    "title": "Mimetic Desires: Why We Copy Others (And Why It Matters)",
+    "url": "https://fronterabrands.com/mimetic-desires/"
+  },
+  {
+    "title": "Working on Complex Systems: What I Learned Working at Google",
+    "url": "https://www.thecoder.cafe/p/complex-systems"
+  },
+  {
+    "title": "Malicious compliance by booking an available meeting room",
+    "url": "https://www.clientserver.dev/p/malicious-compliance-by-booking-an"
+  },
+  {
+    "title": "But what is quantum computing? (Grover's Algorithm)",
+    "url": "https://www.youtube.com/watch?v=RQWpF2Gb-gU"
+  },
+  {
+    "title": "Writing that changed how I think about PL",
+    "url": "https://bernsteinbear.com/blog/pl-writing/"
+  },
+  {
+    "title": "Intrinsic Motivation: A deep dive",
+    "url": "https://erringtowardsanswers.substack.com/p/intrinsic-motivation"
+  },
+  {
+    "title": "Rare Skills | Yakread",
+    "url": "https://yakread.com/read/1f6143c8-6cfc-4b57-b6d4-6d473012277e"
+  },
+  {
+    "title": "How To Scale Your Model",
+    "url": "https://jax-ml.github.io/scaling-book/"
+  },
+  {
+    "title": "https://kislayverma.com/software-architecture/the-pentagon-of-entity-models/",
+    "url": "https://kislayverma.com/software-architecture/the-pentagon-of-entity-models/"
+  },
+  {
+    "title": "The Uncertain Mind: How the Brain Handles the Unknown",
+    "url": "https://nesslabs.com/uncertain-mind?utm_source=rss&utm_medium=rss&utm_campaign=uncertain-mind"
+  },
+  {
+    "title": "Feeling Stressed? Try this time-tested Brain Dump Technique",
+    "url": "https://www.khehy.com/how-to-do-a-brain-dump"
+  },
+  {
+    "title": "Recent AI model progress feels mostly like bullshit",
+    "url": "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit"
+  },
+  {
+    "title": "The Dark Side of Changing Your Perspective | Yakread",
+    "url": "https://yakread.com/read/ef6ac1ec-590b-4996-9fb9-a864daa11818?t=1744570938959"
+  },
+  {
+    "title": "One Mindset Hack to Help You Declutter Your Home in 2023 | Yakread",
+    "url": "https://yakread.com/read/22fd2f19-32b4-407f-b2d2-182a9f255fad"
+  },
+  {
+    "title": "Chesterton's Fence: A Lesson in Second Order Thinking | Yakread",
+    "url": "https://fs.blog/chestertons-fence/"
+  },
+  {
+    "title": "The evolution of graph learning",
+    "url": "https://research.google/blog/the-evolution-of-graph-learning/"
+  },
+  {
+    "title": "Johannes Enevoldsen - Excitable cells",
+    "url": "https://jenevoldsen.com/posts/excitable-cells/"
+  },
+  {
+    "title": "AI Engineering in the real world",
+    "url": "https://newsletter.pragmaticengineer.com/p/ai-engineering-in-the-real-world"
+  },
+  {
+    "title": "HN Popularity Contest",
+    "url": "https://refactoringenglish.com/tools/hn-popularity/"
+  },
+  {
+    "title": "A (Long) Peek into Reinforcement Learning",
+    "url": "https://lilianweng.github.io/posts/2018-02-19-rl-overview/"
+  },
+  {
+    "title": "Part 2 -- How to Crack Machine learning Interviews at FAANG : Pointers for Junior/Senior/Staff+ levels",
+    "url": "https://medium.com/@reachpriyaa/part-2-how-to-crack-machine-learning-interviews-at-faang-pointers-for-junior-senior-staff-4b89e10bff28"
+  },
+  {
+    "title": "Rules of Machine Learning: | Google for Developers",
+    "url": "https://developers.google.com/machine-learning/guides/rules-of-ml"
+  },
+  {
+    "title": "How I've run major projects",
+    "url": "https://www.benkuhn.net/pjm/"
+  },
+  {
+    "title": "Telescope Building with John Dobson",
+    "url": "https://www.youtube.com/watch?v=snz7JJlSZvw"
+  },
+  {
+    "title": "Amateur telescope making",
+    "url": "https://stellafane.org/tm/atm/"
+  },
+  {
+    "title": "Powered by AI: Instagram's Explore recommender system",
+    "url": "https://ai.meta.com/blog/powered-by-ai-instagrams-explore-recommender-system/"
+  },
+  {
+    "title": "45530",
+    "url": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf"
+  },
+  {
+    "title": "Machine Learning | Google for Developers",
+    "url": "https://developers.google.com/machine-learning/advanced-courses"
+  },
+  {
+    "title": "The Bitter Lesson",
+    "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html"
+  },
+  {
+    "title": "Trimodal Nature of Tech Compensation in the US, UK and India",
+    "url": "https://newsletter.pragmaticengineer.com/p/trimodal"
+  },
+  {
+    "title": "Trimodal Nature of Tech Compensation in the US, UK and India",
+    "url": "https://newsletter.pragmaticengineer.com/p/trimodal"
+  },
+  {
+    "title": "Introduction to Flow Matching and Diffusion Models",
+    "url": "https://diffusion.csail.mit.edu/"
+  },
+  {
+    "title": "Calendar.txt",
+    "url": "https://terokarvinen.com/2021/calendar-txt/"
+  },
+  {
+    "title": "Efficient and easy segment trees - Codeforces",
+    "url": "https://codeforces.com/blog/entry/18051"
+  },
+  {
+    "title": "Relaxed Radix Balanced Trees | Peter Horne-Khan",
+    "url": "https://peter.horne-khan.com/relaxed-radix-balanced-trees/"
+  },
+  {
+    "title": "Innovative Recommendation Applications Using Two Tower Embeddings at Uber | Uber Blog",
+    "url": "https://www.uber.com/en-IN/blog/innovative-recommendation-applications-using-two-tower-embeddings/"
+  },
+  {
+    "title": "Poker is a bad game for teaching epistemics. Figgie is a better one.",
+    "url": "https://blog.rossry.net/figgie/"
+  },
+  {
+    "title": "Episode 06: Intro to Architecture and Systems Design Interviews",
+    "url": "https://www.youtube.com/watch?v=ZgdS0EUmn70"
+  },
+  {
+    "title": "Figgie | How to Play",
+    "url": "https://www.figgie.com/how-to-play.html"
+  },
+  {
+    "title": "Optimism as an Operating System",
+    "url": "https://tomcritchlow.com/2019/11/19/optimism-operating-system/"
+  },
+  {
+    "title": "Transformer tutorial in Tensoflow with code",
+    "url": "https://www.tensorflow.org/text/tutorials/transformer"
+  },
+  {
+    "title": "Spinning Up as a Deep RL Researcher -- Spinning Up documentation",
+    "url": "https://spinningup.openai.com/en/latest/spinningup/spinningup.html"
+  },
+  {
+    "title": "minimum effective dose",
+    "url": "https://winnielim.org/journal/minimum-effective-dose/"
+  },
+  {
+    "title": "What really happens inside a dating app",
+    "url": "https://blog.luap.info/what-really-happens-inside-a-dating-app.html"
+  },
+  {
+    "title": "The Resilience of Alien Chess | Mark Rabkin",
+    "url": "https://www.linkedin.com/pulse/resilience-alien-chess-mark-rabkin-6pcmc?utm_source=share&utm_medium=member_ios&utm_campaign=share_via"
+  },
+  {
+    "title": "Attention in transformers, step-by-step | DL6 - YouTube",
+    "url": "https://m.youtube.com/watch?v=eMlx5fFNoYc"
+  },
+  {
+    "title": "James Damore memo",
+    "url": "https://web.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Damore.pdf"
+  },
+  {
+    "title": "The Righteous Mind",
+    "url": "https://righteousmind.com/"
+  },
+  {
+    "title": "Best 4 Exercises for Sacroiliac SI Joint Pain Relief",
+    "url": "https://youtube.com/watch?v=C7lH34CfwYQ&si=ETvfqrUZdYfk7NX8"
+  },
+  {
+    "title": "Nobody Cares",
+    "url": "https://grantslatton.com/nobody-cares"
+  },
+  {
+    "title": "The Brutalist Report",
+    "url": "https://brutalist.report/"
+  },
+  {
+    "title": "all_my_bookmarks",
+    "url": "https://docs.google.com/spreadsheets/d/1eIY7rfRxqEezyxHdhzOGQ1oX8TiNGbZ1l8oGJomXmIo/htmlview"
+  },
+  {
+    "title": "how to have sex with me",
+    "url": "https://docs.google.com/document/d/1_saN8zBZ21uckyfrwyyU17qMs7xmVooco3BzVs9LzAQ/mobilebasic"
+  },
+  {
+    "title": "escaping flatland: career advice for CS undergrads",
+    "url": "https://space.ong.ac/escaping-flatland"
+  },
+  {
+    "title": "The Origins of Wokeness",
+    "url": "https://paulgraham.com/woke.html"
+  },
+  {
+    "title": "Speech and Language Processing",
+    "url": "https://web.stanford.edu/~jurafsky/slp3/"
+  },
+  {
+    "title": "Yes! And...",
+    "url": "https://tomcritchlow.com/2019/11/18/yes-and/"
+  },
+  {
+    "title": "Be aware of the Makefile effect",
+    "url": "https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect"
+  },
+  {
+    "title": "The Best Tacit Knowledge Videos on Every Subject -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject"
+  },
+  {
+    "title": "Marco Zocca - The singular value decomposition, pt.1 - Golub-Kahan-Lanczos bidiagonalization",
+    "url": "https://ocramz.github.io/posts/2017-02-07-golub-kahan-lanczos.html"
+  },
+  {
+    "title": "Marco Zocca - Minimum bipartite matching via Riemann optimization",
+    "url": "https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html"
+  },
+  {
+    "title": "LLM Powered Autonomous Agents",
+    "url": "https://lilianweng.github.io/posts/2023-06-23-agent/"
+  },
+  {
+    "title": "Agents",
+    "url": "https://huyenchip.com//2025/01/07/agents.html"
+  },
+  {
+    "title": "The story of ispc: origins (part 1)",
+    "url": "https://pharr.org/matt/blog/2018/04/18/ispc-origins"
+  },
+  {
+    "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations - YouTube",
+    "url": "https://www.youtube.com/embed/139UPjoq7Kw"
+  },
+  {
+    "title": "Inside Amazon's Engineering Culture",
+    "url": "https://newsletter.pragmaticengineer.com/p/amazon"
+  },
+  {
+    "title": "constructive adhd by @visakanv",
+    "url": "https://docs.google.com/document/d/1ZDV-0WS8DrBDebF3fvUFj9aXQvLnwFc7optFgL1MpFk/mobilebasic"
+  },
+  {
+    "title": "Felix Hill - Medium",
+    "url": "https://medium.com/@felixhill"
+  },
+  {
+    "title": "Agents | Kaggle",
+    "url": "https://www.kaggle.com/whitepaper-agents"
+  },
+  {
+    "title": "The Bittersweet Lesson",
+    "url": "https://medium.com/@felixhill/the-agreeable-lesson-9766382c6d83#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg5Y2UzNTk4YzQ3M2FmMWJkYTRiZmY5NWU2Yzg3MzY0NTAyMDZmYmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTMzNzA0MjYxOTkyMjI0Mjk4NzMiLCJlbWFpbCI6ImEuYnVjay5hbi5lYXJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTczNTk1ODkzMywibmFtZSI6IlN0ZXBoYW5pZSBDaGFuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0plWjZnV0FJQTVNUW1XRzY5NVNUZXhCNlQ5d1FzTzFwcEpNb1d4Q19aWDM3N3lWZktPPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlN0ZXBoYW5pZSIsImZhbWlseV9uYW1lIjoiQ2hhbiIsImlhdCI6MTczNTk1OTIzMywiZXhwIjoxNzM1OTYyODMzLCJqdGkiOiJlZmJlNmUwYzhhMjg5NmY4NDcxMTU2MDI4MjRlYzE3NDVjYzhlMDQzIn0.pOWWaY5QCVvuXBRbVl5guIQ1xEvkiQ5Z8cpf_uBh7lZPJnfj_cSC1TKsZQhM2t3S1EFQ5GvWeMUbnVYy6_wnHI54Iy--mGU8TKbDZqcUaa6Qsfw7pLciLGwsB32-r49hUOSoyGt2E9zD7WozTqKQYUushMVg-C9iakZm3Gzt5edBXSjgeDg2zQytDRVmtf8rb4VzZ7Zkj8x-NZoNTzJzxvUvCS29TSoEOj3MMyp1wMfRCLXt2Xf-Wr_ziO7eFTHMJIHhtUinzuuaCyFOQFBNJx6WWsPi3vW19Q6ZOweQLld_o7NyOyHuEgHFUxypDn64uFvRNDVO-l2Bc7gpMNkdQA"
+  },
+  {
+    "title": "On mental health, psychedelics and life",
+    "url": "https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzV4vKuihDfm_LgXUznvSpl1T1kg/mobilebasic"
+  },
+  {
+    "title": "Growing a Human: The First 30 Weeks",
+    "url": "https://maggieappleton.com/growing-a-human"
+  },
+  {
+    "title": "The Ultimate Guide to Personal Productivity Methods",
+    "url": "https://todoist.com/inspiration/personal-productivity-methods"
+  },
+  {
+    "title": "Turning a yellow spot into the sun",
+    "url": "https://newsletter.weskao.com/p/turning-a-yellow-spot-into-the-sun"
+  },
+  {
+    "title": "AI and Stress",
+    "url": "https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/mobilebasic"
+  },
+  {
+    "title": "Steph Ango",
+    "url": "https://stephango.com/"
+  },
+  {
+    "title": "Given a boolean matrix sorted row wise. Return a row with max number of 1",
+    "url": "https://stackoverflow.com/questions/17873375/given-a-boolean-matrix-sorted-row-wise-return-a-row-with-max-number-of-1"
+  },
+  {
+    "title": "Things we learned about LLMs in 2024",
+    "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/#the-environmental-impact-got-much-much-worse"
+  },
+  {
+    "title": "Deepseek: The Quiet Giant Leading China's AI Race",
+    "url": "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas"
+  },
+  {
+    "title": "Developers can't fix bad management",
+    "url": "https://iism.org/article/developers-can-t-fix-bad-management-57"
+  },
+  {
+    "title": "You can't tell people anything",
+    "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/"
+  },
+  {
+    "title": "Context Switching: Why It's So Hard to Avoid & How to Prevent It Anyway",
+    "url": "https://todoist.com/inspiration/context-switching"
+  },
+  {
+    "title": "Why You Procrastinate (It Has Nothing to Do With Self-Control) (Published 2019)",
+    "url": "https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html"
+  },
+  {
+    "title": "You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop Procrastinating! - Cognition Today",
+    "url": "https://cognitiontoday.com/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/"
+  },
+  {
+    "title": "Procrastination: A Scientific Guide on How to Stop Procrastinating",
+    "url": "https://jamesclear.com/procrastination"
+  },
+  {
+    "title": "Guided Meditations",
+    "url": "https://www.uclahealth.org/programs/uclamindful/free-guided-meditations/weekly-meditations-talks/guided-meditations#english"
+  },
+  {
+    "title": "Procrastination Self-Help Resources - Information Sheets & Workbooks",
+    "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Procrastination"
+  },
+  {
+    "title": "Want now - Slava Akhmechet",
+    "url": "https://www.spakhm.com/wantnow"
+  },
+  {
+    "title": "How to get promoted",
+    "url": "https://spakhm.substack.com/p/how-to-get-promoted"
+  },
+  {
+    "title": "Productivity advice",
+    "url": "https://spakhm.substack.com/p/productivity-advice"
+  },
+  {
+    "title": "How to send progress updates - Slava Akhmechet",
+    "url": "https://www.spakhm.com/updates-howto"
+  },
+  {
+    "title": "Be impatient",
+    "url": "https://www.benkuhn.net/impatient/"
+  },
+  {
+    "title": "Cognitive load is what matters",
+    "url": "https://minds.md/zakirullin/cognitive"
+  },
+  {
+    "title": "Hell's Paradise: Jigokuraku - The Fear in Sagiri's Blade, Explained",
+    "url": "https://gamerant.com/hells-paradise-jigokuraku-the-fear-in-sagiris-blade-explained/"
+  },
+  {
+    "title": "Keeping a CHANGELOG at Work",
+    "url": "https://code.dblock.org/2020/09/01/keep-a-changelog-at-work.html"
+  },
+  {
+    "title": "Building effective agents \\ Anthropic",
+    "url": "https://www.anthropic.com/research/building-effective-agents"
+  },
+  {
+    "title": "0data Hello World",
+    "url": "https://hello.0data.app/"
+  },
+  {
+    "title": "NB - Welcome to Nullboard",
+    "url": "https://nullboard.io/preview"
+  },
+  {
+    "title": "My favourite colour is Chuck Norris red - HTMHell",
+    "url": "https://htmhell.dev/adventcalendar/2024/20/"
+  },
+  {
+    "title": "Fermat's Library | A Study on the Coffee Spilling Phenomenon in the Low Impulse Regime annotated/explained version.",
+    "url": "https://fermatslibrary.com/s/a-study-on-the-coffee-spilling-phenomenon-in-the-low-impulse-regime#email-newsletter"
+  },
+  {
+    "title": "Founder Mode and the Art of Mythmaking",
+    "url": "https://charity.wtf/2024/12/17/founder-mode-and-the-art-of-mythmaking/"
+  },
+  {
+    "title": "The Cyclic Identity for Partial Derivatives",
+    "url": "https://johncarlosbaez.wordpress.com/2021/09/13/the-cyclic-identity-for-partial-derivatives/"
+  },
+  {
+    "title": "How To Reinvent Your Life In 4 Months (My Full Step-By-Step Process) | Cal Newport",
+    "url": "https://youtu.be/0G7Wu4DnDaw?si=lAJ5aGqQ5_0AoMdj"
+  },
+  {
+    "title": "Manacher: Longest Palindrome Taro Kuriyama | Visualization",
+    "url": "https://tarokuriyama.com/projects/palindrome2.php"
+  },
+  {
+    "title": "PPO explained in plain english and code",
+    "url": "https://apoorvx.com/posts/ppo/"
+  },
+  {
+    "title": "High-Context Triad.",
+    "url": "https://lethain.com/high-context-triad/"
+  },
+  {
+    "title": "Useful tradeoffs are multi-dimensional.",
+    "url": "https://lethain.com/multi-dimensional-tradeoffs/"
+  },
+  {
+    "title": "chiphuyen/aie-book: [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+    "url": "https://github.com/chiphuyen/aie-book"
+  },
+  {
+    "title": "Manacher Algorithm for Strings | Understanding, Proof and Implementation | Palindromes | VIvek Gupta",
+    "url": "https://youtu.be/ei7qghJEj4Y?si=3M1eI2O1NlBJDqRE"
+  },
+  {
+    "title": "Color Generator",
+    "url": "https://www.iamsajid.com/colors/"
+  },
+  {
+    "title": "[Python] Powerful Ultimate Binary Search Template. Solved many problems - LeetCode Discuss",
+    "url": "https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems/"
+  },
+  {
+    "title": "The Hoare Cube",
+    "url": "https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/"
+  },
+  {
+    "title": "YouTube",
+    "url": "https://m.youtube.com/watch?si=2ZRsM-t4FO12RaN4&v=M3_pLsDdeuU&feature=youtu.be"
+  },
+  {
+    "title": "Facebook's Little Red Book",
+    "url": "https://www.map.cv/blog/redbook"
+  },
+  {
+    "title": "Sham1 ink",
+    "url": "http://files.boazbarak.org/misc/mltheory/sham1_ink.pdf"
+  },
+  {
+    "title": "Harvard CS197: AI Research Experiences",
+    "url": "https://www.cs197.seas.harvard.edu/"
+  },
+  {
+    "title": "Book",
+    "url": "https://cses.fi/book/book.pdf"
+  },
+  {
+    "title": "gradient-checkpointing in ternsorflow Make huge neural nets fit in memory",
+    "url": "https://github.com/cybertronai/gradient-checkpointing"
+  },
+  {
+    "title": "Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups",
+    "url": "https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255"
+  },
+  {
+    "title": "Special Data Structure: Monotonic Stack | algo-en",
+    "url": "https://labuladong.gitbook.io/algo-en/ii.-data-structure/monotonicstack"
+  },
+  {
+    "title": "The Right Kind of Stubborn",
+    "url": "https://paulgraham.com/persistence.html"
+  },
+  {
+    "title": "A Regular Expression Matcher Code by Rob Pike Exegesis by Brian Kernighan",
+    "url": "https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html"
+  },
+  {
+    "title": "Bayesian Neural Networks",
+    "url": "https://www.cs.toronto.edu/~duvenaud/distill_bayes_net/public/"
+  },
+  {
+    "title": "The Deceptively Asymmetric Unit Sphere",
+    "url": "https://www.tangramvision.com/blog/the-deceptively-asymmetric-unit-sphere"
+  },
+  {
+    "title": "I fixed my lactose intolerance -- by chugging ALL the lactose",
+    "url": "https://youtube.com/watch?v=h90rEkbx95w&si=wQa0zYbs1OKP63uo"
+  },
+  {
+    "title": "The Bean Protocol\u2122, explained: Conversation with Unique Hammond",
+    "url": "https://primarybeans.com/blogs/cooking-nutrition/the-bean-protocol-explained-conversation-with-unique-hammond?srsltid=AfmBOorqcSMlJtqRgrOn3gca1HzuVOX5Y-IiMOMYKMQQo_qa-aXkRU9S"
+  },
+  {
+    "title": "Underrated ways to change the world",
+    "url": "https://www.experimental-history.com/p/underrated-ways-to-change-the-world"
+  },
+  {
+    "title": "fleetwood.dev",
+    "url": "https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding"
+  },
+  {
+    "title": "Essays",
+    "url": "https://gwern.net/"
+  },
+  {
+    "title": "Under The Hood by Stan Slap -- 12k Word Book Summary",
+    "url": "https://commoncog.com/under-the-hood/"
+  },
+  {
+    "title": "How I ship projects at big tech companies",
+    "url": "https://www.seangoedecke.com/how-to-ship/"
+  },
+  {
+    "title": "Promotions and tooling at Google (with Irina Stanescu, Ex-Google)",
+    "url": "https://t.co/tNosY8mQQU?ssr=true"
+  },
+  {
+    "title": "How on Earth does ^.?$|^(..+?)\\1+$ produce primes?",
+    "url": "https://www.youtube.com/watch?v=5vbk0TwkokM"
+  },
+  {
+    "title": "Dynamic connectivity problem - Codeforces",
+    "url": "https://codeforces.com/blog/entry/15296"
+  },
+  {
+    "title": "Segment Tree - Algorithms for Competitive Programming",
+    "url": "https://cp-algorithms.com/data_structures/segment_tree.html#:~:text=A%20Segment%20Tree%20is%20a,sum%20of%20consecutive%20array%20elements"
+  },
+  {
+    "title": "The Transformer Family Version 2.0",
+    "url": "https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/"
+  },
+  {
+    "title": "The Mental Model Fallacy",
+    "url": "https://commoncog.com/the-mental-model-fallacy/"
+  },
+  {
+    "title": "Useing You're Type's Good : Gary Bernhardt : Free Download, Borrow, and Streaming : Internet Archive",
+    "url": "https://archive.org/details/usetypes"
+  },
+  {
+    "title": "Chicken Sexing and Perceptual Learning as a Path to Expertise",
+    "url": "https://commoncog.com/chicken-sexing-and-perceptual-learning-as-a-path-to-expertise/#perceptual-exposure-as-natural-learning-strategy"
+  },
+  {
+    "title": "Why Tacit Knowledge is More Important Than Deliberate Practice",
+    "url": "https://commoncog.com/tacit-knowledge-is-a-real-thing/"
+  },
+  {
+    "title": "What Should You Do with Your Life? Directions and Advice - Alexey \u2026",
+    "url": "https://guzey.com/personal/what-should-you-do-with-your-life/"
+  },
+  {
+    "title": "Categories of leadership on technical teams",
+    "url": "https://www.benkuhn.net/leadcats/"
+  },
+  {
+    "title": "My weekly review habit",
+    "url": "https://www.benkuhn.net/weekly/"
+  },
+  {
+    "title": "Rest in motion",
+    "url": "https://mindingourway.com/rest-in-motion/"
+  },
+  {
+    "title": "Becoming a magician",
+    "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/"
+  },
+  {
+    "title": "My favorite essays of life advice",
+    "url": "https://www.benkuhn.net/weeklyessays/"
+  },
+  {
+    "title": "No one can teach you to have conviction",
+    "url": "https://www.benkuhn.net/conviction/"
+  },
+  {
+    "title": "Value is Fragile -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile"
+  },
+  {
+    "title": "Staring into the abyss as a core life skill",
+    "url": "https://www.benkuhn.net/abyss/"
+  },
+  {
+    "title": "writing/about/an-n-ball-between-n-balls",
+    "url": "https://www.arnaldur.be/writing/about/an-n-ball-between-n-balls"
+  },
+  {
+    "title": "Leverage Points: Places to Intervene in a System",
+    "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+  },
+  {
+    "title": "Research Engineer, India",
+    "url": "https://boards.greenhouse.io/deepmind/jobs/6269789"
+  },
+  {
+    "title": "The Llama 3 Herd of Models",
+    "url": "https://arxiv.org/abs/2407.21783"
+  },
+  {
+    "title": "2024 10 02 training 10k scale",
+    "url": "https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html"
+  },
+  {
+    "title": "E.W. Dijkstra Archive: Why numbering should start at zero (EWD 831)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html"
+  },
+  {
+    "title": "fhur",
+    "url": "https://fhur.me/posts/always-use-closed-open-intervals"
+  },
+  {
+    "title": "Why strength training? A programmer's perspective",
+    "url": "https://fhur.me/posts/2024/why-strength-training-a-programmers-perspective"
+  },
+  {
+    "title": "901DAD63-B763-4BC4-97F8-807349CE2DF8.png",
+    "url": "https://api.raindrop.io/v2/raindrop/863060890/file?type=image/png"
+  },
+  {
+    "title": "TechJudge",
+    "url": "https://www.ranprieur.com/tech.html"
+  },
+  {
+    "title": "Too much efficiency makes everything worse: overfitting and the strong version of Goodhart's law",
+    "url": "https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html"
+  },
+  {
+    "title": "I love calculator",
+    "url": "https://karpathy.ai/blog/calculator.html"
+  },
+  {
+    "title": "Where do These People Get Their (Unoriginal) Ideas?",
+    "url": "https://www.joelonsoftware.com/2000/04/19/where-do-these-people-get-their-unoriginal-ideas/"
+  },
+  {
+    "title": "Nobody Ever Gets Credit for Fixing Problems that Never Happened:",
+    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf"
+  },
+  {
+    "title": "Abhishek Divekar on LinkedIn: Tips for a successful referral at Amazon (Abhishek's guide)",
+    "url": "https://www.linkedin.com/posts/ardivekar_tips-for-a-successful-referral-at-amazon-activity-7243821823610507264-u8Av?utm_source=combined_share_message&utm_medium=ios_app&utm_campaign=share_via"
+  },
+  {
+    "title": "Machine learning systems design Case studies",
+    "url": "https://huyenchip.com/machine-learning-systems-design/case-studies.html#case-studies-bYrWS80"
+  },
+  {
+    "title": "CS 329S | ML system design, Stanford",
+    "url": "https://stanford-cs329s.github.io/"
+  },
+  {
+    "title": "Introduction to Machine Learning Interviews Book \u00b7 MLIB",
+    "url": "https://huyenchip.com/ml-interviews-book/"
+  },
+  {
+    "title": "The Automation Charade",
+    "url": "https://logicmag.io/failure/the-automation-charade/"
+  },
+  {
+    "title": "Live Fuller, Not Bigger",
+    "url": "https://every.to/napkin-math/live-fuller-not-bigger-70cd44e7-4c2e-49d1-a853-29bd0b67c9fa"
+  },
+  {
+    "title": "When to Design for Emergence",
+    "url": "https://newsletter.rhizomerd.com/p/when-to-design-for-emergence"
+  },
+  {
+    "title": "Shirky: Situated Software",
+    "url": "https://web.archive.org/web/20050120085129/http://www.shirky.com/writings/situated_software.html"
+  },
+  {
+    "title": "",
+    "url": "https://l.threads.net/?u=https%3A%2F%2Fdiscuss.pytorch.org%2Ft%2Fdistributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch%2F209487&e=AT1e2HhexLXoRsf-F8GlQUUZoSh1gtUG6iJ6v7xPl2UW5YRqDc-9wF7RpjIrZ7C2llKB3iuC_N5vZnBBDAMx7EY7RvcymPVjB1LULkn7r6Ezmrpich75QQ&s=1"
+  },
+  {
+    "title": "Turn the Ship Around | L. David Marquet | Talks at Google",
+    "url": "https://youtu.be/IzJL8zX3EVk"
+  },
+  {
+    "title": "Top-K System Design Interview Guide",
+    "url": "https://www.hellointerview.com/learn/system-design/answer-keys/top-k"
+  },
+  {
+    "title": "Just-world fallacy - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Just-world_fallacy"
+  },
+  {
+    "title": "Getting the Easy Stuff Right | No Mercy / No Malice",
+    "url": "https://www.profgalloway.com/getting-the-easy-stuff-right/"
+  },
+  {
+    "title": "Becoming perceptive",
+    "url": "https://www.henrikkarlsson.xyz/p/perceptive"
+  },
+  {
+    "title": "papers",
+    "url": "https://shachaf.net/papers/"
+  },
+  {
+    "title": "Papers We Love",
+    "url": "https://paperswelove.org/"
+  },
+  {
+    "title": "Departure Mono",
+    "url": "https://departuremono.com/"
+  },
+  {
+    "title": "Work on what matters",
+    "url": "https://staffeng.com/guides/work-on-what-matters/"
+  },
+  {
+    "title": "Explaining tech's notion of talent scarcity",
+    "url": "https://nadia.xyz/top-talent"
+  },
+  {
+    "title": "Founder Mode",
+    "url": "https://paulgraham.com/foundermode.html"
+  },
+  {
+    "title": "What is Meditation / Mindfulness Good for? -- Information is Beautiful",
+    "url": "https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/"
+  },
+  {
+    "title": "5-minute Guided Mediation with Jon Kabat-Zinn | MasterClass",
+    "url": "https://youtu.be/7WnZisfYMsE?si=bJgRHTSNpM5gDt39"
+  },
+  {
+    "title": "The Scientific Sensibility",
+    "url": "https://www.ribbonfarm.com/2011/08/26/the-scientific-sensibility/"
+  },
+  {
+    "title": "On Seeing Through and Unseeing: The Hacker Mindset",
+    "url": "https://gwern.net/unseeing"
+  },
+  {
+    "title": "Don't Surround Yourself With Smarter People",
+    "url": "https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/"
+  },
+  {
+    "title": "MiniTorch",
+    "url": "https://minitorch.github.io/"
+  },
+  {
+    "title": "The Memex Method",
+    "url": "https://pluralistic.net/2021/05/09/the-memex-method/"
+  },
+  {
+    "title": "A Plain Text Personal Organizer - Daniel Lucraft",
+    "url": "https://danlucraft.com/blog/2008/04/plain-text-organizer/"
+  },
+  {
+    "title": "The Monospace Web",
+    "url": "https://owickstrom.github.io/the-monospace-web/"
+  },
+  {
+    "title": "What's Really Going On in Machine Learning? Some Minimal Models",
+    "url": "https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/"
+  },
+  {
+    "title": "Manufacturing quality time",
+    "url": "https://signalvnoise.com/svn3/manufacturing-quality-time/"
+  },
+  {
+    "title": "Kitchen Soap - On Being A Senior Engineer",
+    "url": "https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/"
+  },
+  {
+    "title": "naklecha/llama3-from-scratch: llama3 implementation one matrix multiplication at a time",
+    "url": "https://github.com/naklecha/llama3-from-scratch"
+  },
+  {
+    "title": "The First Law of Complexodynamics",
+    "url": "https://scottaaronson.blog/?p=762"
+  },
+  {
+    "title": "Tree Attention: Topology-Aware Decoding for Long-Context Attention on GPU Clusters",
+    "url": "https://arxiv.org/pdf/2408.04093"
+  },
+  {
+    "title": "Blog Moving; What to Read Here",
+    "url": "http://seekingquestions.blogspot.com/2018/04/blog-moving-what-to-read-here.html"
+  },
+  {
+    "title": "Be More Evil",
+    "url": "http://seekingquestions.blogspot.com/2017/06/be-more-evil.html"
+  },
+  {
+    "title": "Cultivating a state of mind where new ideas are born",
+    "url": "https://www.henrikkarlsson.xyz/p/good-ideas"
+  },
+  {
+    "title": "Everything that turned out well in my life followed the same design process",
+    "url": "https://www.henrikkarlsson.xyz/p/unfolding"
+  },
+  {
+    "title": "Crafting Formulas: Lambdas All the Way Down",
+    "url": "https://text.marvinborner.de/2024-04-16-10.html"
+  },
+  {
+    "title": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation",
+    "url": "https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation"
+  },
+  {
+    "title": "Having Kids",
+    "url": "https://www.paulgraham.com/kids.html"
+  },
+  {
+    "title": "LLMs-from-scratch/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb at main \u00b7 rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb"
+  },
+  {
+    "title": "At 28, I Taught Myself to Be Likable. Here's How I Did It (Part 1)",
+    "url": "https://www.cartoonshateher.com/p/at-28-i-taught-myself-to-be-likable?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "How does Xgboost learn what are the inputs for missing values?",
+    "url": "https://datascience.stackexchange.com/questions/15305/how-does-xgboost-learn-what-are-the-inputs-for-missing-values"
+  },
+  {
+    "title": "Logic gates - From transistors to logic gates NAND, AND, NOR, OR, NOT, XOR how computers work PART 1",
+    "url": "https://m.youtube.com/watch?v=HaBMAD-Dr8M&list=PLnAxReCloSeTJc8ZGogzjtCtXl_eE6yzA&index=2"
+  },
+  {
+    "title": "The Truth About Linear Regression",
+    "url": "https://www.stat.cmu.edu/~cshalizi/TALR/"
+  },
+  {
+    "title": "Pico CSS \u2022 Minimal CSS Framework for semantic HTML",
+    "url": "https://picocss.com/"
+  },
+  {
+    "title": "FastHTML",
+    "url": "https://fastht.ml/"
+  },
+  {
+    "title": "Nike: An Epic Saga of Value Destruction",
+    "url": "https://www.linkedin.com/pulse/nike-epic-saga-value-destruction-massimo-giunco-llplf?utm_source=share&utm_medium=member_ios&utm_campaign=share_via"
+  },
+  {
+    "title": "The Matrix Calculus You Need For Deep Learning",
+    "url": "https://explained.ai/matrix-calculus/"
+  },
+  {
+    "title": "Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog/2017/05/15/fear-setting/"
+  },
+  {
+    "title": "The Eristics Test",
+    "url": "https://www.eristicstest.com/#the_architect"
+  },
+  {
+    "title": "The Standing Hip Flexor Raise",
+    "url": "https://youtube.com/watch?v=l6TvBVsjgyU&si=1eMejAlG2ckW0VEI"
+  },
+  {
+    "title": "My Favorite Algorithm: Linear Time Median Finding",
+    "url": "https://rcoh.me/posts/linear-time-median-finding/"
+  },
+  {
+    "title": "Book: Alice's Adventures in a differentiable wonderland",
+    "url": "https://www.sscardapane.it/alice-book"
+  },
+  {
+    "title": "What are the ways compilers recognize complex patterns?",
+    "url": "https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns"
+  },
+  {
+    "title": "The AI summer -- Benedict Evans",
+    "url": "https://www.ben-evans.com/benedictevans/2024/7/9/the-ai-summer"
+  },
+  {
+    "title": "An informal comparison of the three major implementations of std::string - The Old New Thing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/?p=109742"
+  },
+  {
+    "title": "Structured Procrastination",
+    "url": "https://structuredprocrastination.com/"
+  },
+  {
+    "title": "Why German Strings are Everywhere",
+    "url": "https://cedardb.com/blog/german_strings/"
+  },
+  {
+    "title": "Senior Engineer Fatigue",
+    "url": "https://luminousmen.com/post/senior-engineer-fatigue"
+  },
+  {
+    "title": "PyTorch internals",
+    "url": "http://blog.ezyang.com/2019/05/pytorch-internals/"
+  },
+  {
+    "title": "Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts",
+    "url": "https://fev.al/posts/work-journal/#fnref:1"
+  },
+  {
+    "title": "The Tragedies of Reality Are Coming for You",
+    "url": "https://www.alexirpan.com/2024/07/08/tragedies-of-reality.html"
+  },
+  {
+    "title": "Extreme Programming Explained",
+    "url": "https://www.yosefk.com/blog/extreme-programming-explained.html"
+  },
+  {
+    "title": "10x more selective",
+    "url": "https://yosefk.com/blog/10x-more-selective.html"
+  },
+  {
+    "title": "Don't ask if a monorepo is good for you - ask if you're good enough for a monorepo",
+    "url": "https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html"
+  },
+  {
+    "title": "Evil tip: avoid \"easy\" things",
+    "url": "https://yosefk.com/blog/evil-tip-avoid-easy-things.html"
+  },
+  {
+    "title": "Deep-ML",
+    "url": "https://www.deep-ml.com/"
+  },
+  {
+    "title": "Jeff bezos shareholder letter",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm"
+  },
+  {
+    "title": "Note ranking algorithm",
+    "url": "https://communitynotes.x.com/guide/en/under-the-hood/ranking-notes"
+  },
+  {
+    "title": "Advantages of incompetent management",
+    "url": "https://yosefk.com/blog/advantages-of-incompetent-management.html"
+  },
+  {
+    "title": "Simple Grad implementation for pytorch",
+    "url": "https://colab.research.google.com/drive/1VpeE6UvEPRz9HmsHh1KS0XxXjYu533EC"
+  },
+  {
+    "title": "Creating a Transformer From Scratch - Part Two: The Rest of the Transformer",
+    "url": "https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer"
+  },
+  {
+    "title": "You and your reaearch",
+    "url": "https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf"
+  },
+  {
+    "title": "Surely you can be serious",
+    "url": "https://www.experimental-history.com/p/surely-you-can-be-serious"
+  },
+  {
+    "title": "Be Good To Your Mentors",
+    "url": "https://commoncog.com/be-good-to-your-mentors/"
+  },
+  {
+    "title": "Learning In Ill-Structured Domains Series: Cognitive Flexibility Theory",
+    "url": "https://commoncog.com/learning-ill-structured-domains-series/"
+  },
+  {
+    "title": "Should You Reverse Any Advice You Hear?",
+    "url": "https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/"
+  },
+  {
+    "title": "Trying Kolmogorov-Arnold Networks in Practice",
+    "url": "https://cprimozic.net/blog/trying-out-kans/"
+  },
+  {
+    "title": "ROT article -- Haiku+Photo Workshops",
+    "url": "https://www.neomodern.com/rot"
+  },
+  {
+    "title": "The Death of the Junior Developer",
+    "url": "https://sourcegraph.com/blog/the-death-of-the-junior-developer"
+  },
+  {
+    "title": "Tufte CSS",
+    "url": "https://edwardtufte.github.io/tufte-css/"
+  },
+  {
+    "title": "An intro to Webpack: what it is and how to use it",
+    "url": "https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/"
+  },
+  {
+    "title": "System 2 as working-memory augmented System 1 reasoning -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/HbXXd2givHBBLxr3d/system-2-as-working-memory-augmented-system-1-reasoning"
+  },
+  {
+    "title": "I Will Fucking Piledrive You If You Mention AI Again -- Ludicity",
+    "url": "https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/"
+  },
+  {
+    "title": "Videolectures",
+    "url": "https://videolectures.net/wsdm09_dean_cblirs/"
+  },
+  {
+    "title": "What I Talk About When I Talk About Running",
+    "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running&ved=2ahUKEwj7quTuleeGAxWCFzQIHeOkAxYQFnoECEEQAQ&usg=AOvVaw3KtYIFjdTLRMxcKc9O1JkM"
+  },
+  {
+    "title": "A Short History of Bi-Directional Links",
+    "url": "https://maggieappleton.com/bidirectionals"
+  },
+  {
+    "title": "Thanos was wrong and Malthus was right: why you still don't understand the ecology of overpopulation",
+    "url": "https://erlkinggodswood.blogspot.com/2020/10/the-real-ecology-of-overpopulation.html?m=1"
+  },
+  {
+    "title": "Only a fool gets rich twice",
+    "url": "https://allocatormindset.com/only-a-fool/"
+  },
+  {
+    "title": "Puffer",
+    "url": "https://puffer.stanford.edu/faq/"
+  },
+  {
+    "title": "Stanford2021 01",
+    "url": "https://physbam.stanford.edu/~fedkiw/papers/stanford2021-01.pdf"
+  },
+  {
+    "title": "Aesthetically Pleasing Learning Rates",
+    "url": "https://blog.evjang.com/2018/04/aesthetic-lr.html?m=1"
+  },
+  {
+    "title": "the Gilbert-Johnson-Keerthi algorithm explained as simply as possibly",
+    "url": "https://computerwebsite.net/writing/gjk"
+  },
+  {
+    "title": "Home-Cooked Software and Barefoot Developers",
+    "url": "https://maggieappleton.com/home-cooked-software"
+  },
+  {
+    "title": "A high-bias, low-variance intro to ML",
+    "url": "https://arxiv.org/pdf/1803.08823"
+  },
+  {
+    "title": "Functional Programming - 01: Basics - YouTube",
+    "url": "https://m.youtube.com/watch?v=Z3PLwD3iebg&list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo"
+  },
+  {
+    "title": "ML Collective",
+    "url": "https://mlcollective.org/dlct/"
+  },
+  {
+    "title": "Howtowalkandtalk",
+    "url": "https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf"
+  },
+  {
+    "title": "FineWeb: decanting the web for the finest text data at scale - a Hugging Face Space by HuggingFaceFW",
+    "url": "https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1"
+  },
+  {
+    "title": "30u30 illya list",
+    "url": "https://punkx.org/jackdoe/30.html"
+  },
+  {
+    "title": "Here comes the Muybridge camera moment but for text. Photoshop too",
+    "url": "https://interconnected.org/home/2024/05/31/camera"
+  },
+  {
+    "title": "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
+    "url": "https://blog.partykit.io/posts/using-vectorize-to-build-search"
+  },
+  {
+    "title": "Be findable",
+    "url": "https://registerspill.thorstenball.com/p/be-findable"
+  },
+  {
+    "title": "6 Finetuning for Classification \u00b7 Build a Large Language Model (From Scratch)",
+    "url": "https://livebook.manning.com/book/build-a-large-language-model-from-scratch/chapter-6/"
+  },
+  {
+    "title": "Notes on Diffusion Models",
+    "url": "https://andrewkchan.dev/posts/diffusion.html"
+  },
+  {
+    "title": "SimPO: Simple Preference Optimization with a Reference-Free Reward",
+    "url": "https://arxiv.org/abs/2405.14734"
+  },
+  {
+    "title": "Here, just use this test. It's just as good, IMO.",
+    "url": "https://x.com/eshear/status/1793809887970918740?s=12"
+  },
+  {
+    "title": "Nobody Understands Me (Because I Am So Deep)",
+    "url": "https://andrewblevins.substack.com/p/nobody-understands-me"
+  },
+  {
+    "title": "How I Cured My Procrastination - Learn How To Learn",
+    "url": "https://learnhowtolearn.org/how-i-cured-procrastination/"
+  },
+  {
+    "title": "Working Smarter, not Harder - Trisha Gee",
+    "url": "https://trishagee.com/2024/05/24/working-smarter-not-harder/"
+  },
+  {
+    "title": "System 2 as working-memory augmented System 1 reasoning -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/HbXXd2givHBBLxr3d/against-system-1-and-system-2-subagent-sequence"
+  },
+  {
+    "title": "Childhoods of exceptional people",
+    "url": "https://www.henrikkarlsson.xyz/p/childhoods"
+  },
+  {
+    "title": "Choose Boring Technology Culture",
+    "url": "https://charity.wtf/2023/05/01/choose-boring-technology-culture/"
+  },
+  {
+    "title": "Statistical Modeling: The Two Cultures",
+    "url": "https://www.jstor.org/stable/2676681"
+  },
+  {
+    "title": "Dan McKinley :: Choose Boring Technology",
+    "url": "https://mcfunley.com/choose-boring-technology"
+  },
+  {
+    "title": "Evidence Based Scheduling",
+    "url": "https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/"
+  },
+  {
+    "title": "Suffering-focused total utilitarianism",
+    "url": "https://www.aaronbergman.net/p/my-case-for-suffering-leaning-ethics"
+  },
+  {
+    "title": "Third Time: a better way to work -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work"
+  },
+  {
+    "title": "Why Procrastinators Procrastinate -- Wait But Why",
+    "url": "https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html"
+  },
+  {
+    "title": "Table of Contents \u00b7 Crafting Interpreters",
+    "url": "https://craftinginterpreters.com/contents.html"
+  },
+  {
+    "title": "Errors vs. Bugs and the End of Stupidity",
+    "url": "https://celandine13.livejournal.com/33599.html"
+  },
+  {
+    "title": "The 99% principle for personal problems",
+    "url": "https://kajsotala.fi/2023/10/the-99-principle-for-personal-problems/"
+  },
+  {
+    "title": "Zeigarnik effect",
+    "url": "https://en.wikipedia.org/wiki/Zeigarnik_effect"
+  },
+  {
+    "title": "How to take smart notes (Ahrens, 2017) -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017"
+  },
+  {
+    "title": "PNAS recently published what is hands-down the most detailed study of the relationship between measured personality and intelligence",
+    "url": "https://x.com/cremieuxrecueil/status/1677791286848356353?s=46"
+  },
+  {
+    "title": "Right hand guitar technique | LearnFingerpicking",
+    "url": "https://learnfingerpicking.com/right-hand-guitar-technique/"
+  },
+  {
+    "title": "Socratic Grilling",
+    "url": "https://slatestarcodex.com/2020/03/06/socratic-grilling/"
+  },
+  {
+    "title": "The Zettelkasten Method -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1"
+  },
+  {
+    "title": "The comedy and tragedy of detailed feedback",
+    "url": "https://matthewrocklin.com/feedback.html"
+  },
+  {
+    "title": "Stronglifts 5\u00d75: The Complete Workout Guide [2024] | Stronglifts",
+    "url": "https://stronglifts.com/stronglifts-5x5/"
+  },
+  {
+    "title": "The Five Minute Journal Questions",
+    "url": "https://www.intelligentchange.com/blogs/read/the-five-minute-journal-questions"
+  },
+  {
+    "title": "Augmenting Long-term Memory",
+    "url": "https://augmentingcognition.com/ltm.html"
+  },
+  {
+    "title": "utterances",
+    "url": "https://utteranc.es/"
+  },
+  {
+    "title": "Seven Habits that Shaped My Last Decade",
+    "url": "https://eugeneyan.com/writing/seven-habits-that-shaped-my-decade/"
+  },
+  {
+    "title": "The 85% Rule: When Giving It Your 100% Gets You Less than 85%",
+    "url": "https://eugeneyan.com/writing/when-giving-your-100-gets-you-less-than-85/"
+  },
+  {
+    "title": "Influencing without Authority for Data Scientists",
+    "url": "https://eugeneyan.com/writing/influencing-without-authority/"
+  },
+  {
+    "title": "Why You Should Write Weekly 15-5s",
+    "url": "https://eugeneyan.com/writing/15-5/"
+  },
+  {
+    "title": "Ilya 30u30",
+    "url": "https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE"
+  },
+  {
+    "title": "Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI - YouTube",
+    "url": "https://m.youtube.com/watch?v=3gb-ZkVRemQ"
+  },
+  {
+    "title": "Simplicity is An Advantage but Sadly Complexity Sells Better",
+    "url": "https://eugeneyan.com/writing/simplicity/"
+  },
+  {
+    "title": "Writing Unit Tests for Spark Apps in Scala",
+    "url": "https://boringml.com/docs/platforms/spark/testing-dataframes/"
+  },
+  {
+    "title": "The Submarine",
+    "url": "http://www.paulgraham.com/submarine.html"
+  },
+  {
+    "title": "The B Lane Swimmer",
+    "url": "https://web.archive.org/web/20240313174622/https://holly.witteman.ca/the-b-lane-swimmer/"
+  },
+  {
+    "title": "How to ask good questions",
+    "url": "https://jvns.ca/blog/good-questions/"
+  },
+  {
+    "title": "The Wolf",
+    "url": "https://randsinrepose.com/archives/the-wolf/"
+  },
+  {
+    "title": "You have two jobs - Jacob Kaplan-Moss",
+    "url": "https://jacobian.org/2017/nov/1/you-have-two-jobs/"
+  },
+  {
+    "title": "Woods+ (Ftrain.com)",
+    "url": "https://www.ftrain.com/woods-plus"
+  },
+  {
+    "title": "My Favorite Essays",
+    "url": "https://vickiboykis.com/favorite_essays/"
+  },
+  {
+    "title": "2005 shirky agroupisitsownworstenemy",
+    "url": "https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf"
+  },
+  {
+    "title": "I Hate the News (Aaron Swartz's Raw Thought)",
+    "url": "http://www.aaronsw.com/weblog/hatethenews"
+  },
+  {
+    "title": "Read Something Wonderful - How to Pick a Career (That Actually Fits You)",
+    "url": "https://readsomethingwonderful.com/p/153/how-to-pick-a-career-that-actually-fits-you"
+  },
+  {
+    "title": "Getting Started with Framework Thinking - Frameworks in Books \ud83d\udcda",
+    "url": "https://youtube.com/watch?v=U5xskQVA-2c&si=2HtPvJauXdcvCaER"
+  },
+  {
+    "title": "Modern portfolio theory - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Modern_portfolio_theory"
+  },
+  {
+    "title": "Works in Progress: The Long Journey to Doing Good Better",
+    "url": "https://medium.com/@moskov/works-in-progress-the-long-journey-to-doing-good-better-9dfb68e50868"
+  },
+  {
+    "title": "Women As Worriers Who Exclude",
+    "url": "https://www.overcomingbias.com/p/women-as-worriers-who-exclude"
+  },
+  {
+    "title": "How Complex Systems Fail",
+    "url": "https://how.complexsystems.fail/"
+  },
+  {
+    "title": "Product Management at Meta vs. Google or My Take on How to Evaluate your {Google,Meta} Offer - Daniel D. McKinnon",
+    "url": "https://www.ddmckinnon.com/2024/04/26/product-management-at-meta-vs-google-or-my-take-on-how-to-evaluate-your-googlemeta-offer/"
+  },
+  {
+    "title": "How You Know",
+    "url": "https://paulgraham.com/know.html"
+  },
+  {
+    "title": "Reading the Mind in the Eyes Test",
+    "url": "https://s3.amazonaws.com/he-assets-prod/interactives/233_reading_the_mind_through_eyes/Launch.html"
+  },
+  {
+    "title": "Creating a Transformer From Scratch - Part One: The Attention Mechanism",
+    "url": "https://benjaminwarner.dev/2023/07/01/attention-mechanism"
+  },
+  {
+    "title": "Consider the Lobster: 2000s Archive : gourmet.com",
+    "url": "http://www.gourmet.com.s3-website-us-east-1.amazonaws.com/magazine/2000s/2004/08/consider_the_lobster.html"
+  },
+  {
+    "title": "3 Hours or Nothing",
+    "url": "https://www.workingtheorys.com/p/3-hours?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Never struggle to give feedback again (even to your manager)",
+    "url": "https://read.highgrowthengineer.com/p/never-struggle-to-give-feedback-again"
+  },
+  {
+    "title": "Journaling for Better Engineering Management",
+    "url": "https://hybridhacker.email/p/journaling-for-engineering-management"
+  },
+  {
+    "title": "My 25-Year Engineering Career Retrospective",
+    "url": "https://hybridhacker.email/p/my-25-year-engineering-career-retrospective"
+  },
+  {
+    "title": "Why you need a \"WTF Notebook\"",
+    "url": "https://www.simplermachines.com/why-you-need-a-wtf-notebook/"
+  },
+  {
+    "title": "The Nerd Urban Dictionary",
+    "url": "https://andersonchris.medium.com/the-nerd-urban-dictionary-abcd55ca7ac4"
+  },
+  {
+    "title": "symbol.wtf",
+    "url": "https://symbol.wtf/"
+  },
+  {
+    "title": "Intel's Modular Vision, Meta MTIA 2, Google Axion",
+    "url": "https://stratechery.com/2024/intels-modular-vision-meta-mtia-2-google-axion/"
+  },
+  {
+    "title": "Shazam : how does it work",
+    "url": "https://ismir2003.ismir.net/presentations/Wang.pdf"
+  },
+  {
+    "title": "How to perfectly load a dishwasher - The Oatmeal",
+    "url": "https://theoatmeal.com/comics/dishwasher"
+  },
+  {
+    "title": "Diffusion Models for Video Generation",
+    "url": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/"
+  },
+  {
+    "title": "I accidentally built a meme search engine",
+    "url": "https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/"
+  },
+  {
+    "title": "Training great LLMs entirely from ground up in the wilderness as a startup -- Yi Tay",
+    "url": "https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness"
+  },
+  {
+    "title": "Solutions: What Shapes Do Matrix Multiplications Like?",
+    "url": "https://www.thonking.ai/p/answer-key-what-shapes-do-matrix"
+  },
+  {
+    "title": "Making Deep Learning go Brrrr From First Principles",
+    "url": "https://horace.io/brrr_intro.html"
+  },
+  {
+    "title": "Attack On Titan, Chapter 1 - Attack On Titan Manga Online",
+    "url": "https://w7.read-attackontitan-manga.com/manga/attack-on-titan-chapter-1/"
+  },
+  {
+    "title": "Paul li msr tech report",
+    "url": "https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf"
+  },
+  {
+    "title": "News",
+    "url": "https://www.joelonsoftware.com/2005/01/27/news-58/"
+  },
+  {
+    "title": "The Mythical 5%",
+    "url": "https://www.artima.com/weblogs/viewpost.jsp?thread=221622"
+  },
+  {
+    "title": "Dead Simple Sites -- Minimal Website Inspiration",
+    "url": "https://deadsimplesites.com/"
+  },
+  {
+    "title": "Mutual Fund Calculator: Calculate Investment Growth and Fees - NerdWallet",
+    "url": "https://www.nerdwallet.com/article/investing/mutual-fund-calculator"
+  },
+  {
+    "title": "Faj all in investment expenses jan feb 2014",
+    "url": "https://johncbogle.com/wordpress/wp-content/uploads/2010/04/FAJ-All-In-Investment-Expenses-Jan-Feb-2014.pdf"
+  },
+  {
+    "title": "Extreme brainstorming questions to trigger new, better ideas",
+    "url": "https://longform.asmartbear.com/extreme-questions/"
+  },
+  {
+    "title": "how and why to be ladylike (for women with autism)",
+    "url": "https://www.sympatheticopposition.com/p/how-and-why-to-be-ladylike-for-women"
+  },
+  {
+    "title": "RSS Feed Organization Strategies And New Feed Cost",
+    "url": "https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html"
+  },
+  {
+    "title": "So you wanna de-bog yourself",
+    "url": "https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself"
+  },
+  {
+    "title": "Generator for Any Probability Distribution - Probability Transform and Random Number Generators",
+    "url": "https://youtu.be/Z9fODwmed6M?si=HF98H1Scqo4ZAMyX"
+  },
+  {
+    "title": "Anatomy of a credit card rewards program",
+    "url": "https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/"
+  },
+  {
+    "title": "Jonathan Haidt on Adjusting to Smartphones and Social Media (Ep. 209)",
+    "url": "https://conversationswithtyler.com/episodes/jonathan-haidt-anxious-generation/"
+  },
+  {
+    "title": "Prioritise The Highest Order Bit",
+    "url": "https://commoncog.com/highest-order-bit/"
+  },
+  {
+    "title": "Avoid blundering: 80% of a winning strategy",
+    "url": "https://longform.asmartbear.com/avoid-blundering/"
+  },
+  {
+    "title": "Introduction - Hugging Face NLP Course",
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1"
+  },
+  {
+    "title": "The Illusion of Being Stuck",
+    "url": "https://the-simulation-strategists.beehiiv.com/p/being-stuck"
+  },
+  {
+    "title": "Getting Started with Neovim Using NvChad: A Developer's Guide",
+    "url": "https://blog.spoonconsulting.com/getting-started-with-neovim-using-nvchad-a-developers-guide-f97d81e85d60"
+  },
+  {
+    "title": "Kolmogorov Complexity And Compression Distance",
+    "url": "https://smunshi.net/kolmogorov-complexity-and-compression-distance.html"
+  },
+  {
+    "title": "Deceit, Desire, and the Literature Professor: Why Girardians Exist",
+    "url": "https://arcade.stanford.edu/rofl/deceit-desire-and-literature-professor-why-girardians-exist"
+  },
+  {
+    "title": "12 Things I Learned from Ren\u00e9 Girard",
+    "url": "https://www.honest-broker.com/p/12-things-i-learned-from-rene-girard"
+  },
+  {
+    "title": "ADHD Productivity Fundamentals -- 0xFF",
+    "url": "https://0xff.nu/adhd-productivity-fundamentals"
+  },
+  {
+    "title": "The Goddess of Everything Else",
+    "url": "https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/"
+  },
+  {
+    "title": "Exploring Notion's Data Model: A Block-Based Architecture | Notion",
+    "url": "https://www.notion.so/blog/data-model-behind-notion"
+  },
+  {
+    "title": "Jeff Bezos shares his management style and philosophy",
+    "url": "https://youtube.com/watch?v=F7JMMy-yHSU&si=FtKE53INbecuxGbl"
+  },
+  {
+    "title": "How to Stay Small and Weak",
+    "url": "https://www.elitefts.com/education/nutrition/how-to-stay-small-and-weak/"
+  },
+  {
+    "title": "worldoptimization",
+    "url": "https://caroline.milkyeggs.com/worldoptimization#"
+  },
+  {
+    "title": "Stoicism 101: A Practical Guide for Entrepreneurs - The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog/2009/04/13/stoicism-101-a-practical-guide-for-entrepreneurs/"
+  },
+  {
+    "title": "Start With a Minimum Viable System",
+    "url": "https://www.dannyguo.com/blog/start-with-a-minimum-viable-system"
+  },
+  {
+    "title": "Doing a Job - The Management Philosophy of Adm. Hyman G. Rickover",
+    "url": "https://govleaders.org/rickover.htm"
+  },
+  {
+    "title": "What \"Worse is Better vs The Right Thing\" is really about",
+    "url": "https://yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html"
+  },
+  {
+    "title": "ADHD Stash - Curated collection of ADHD friendly products",
+    "url": "https://www.adhdstash.com/"
+  },
+  {
+    "title": "Breast Cancer Risk Assessment Calculator (The Gail Model)",
+    "url": "https://bcrisktool.cancer.gov/calculator.html"
+  },
+  {
+    "title": "Oru Kinnaragaanam - Speed | Naadan Chords",
+    "url": "https://www.naadanchords.com/oru-kinnaragaanam-speed"
+  },
+  {
+    "title": "People can read their manager's mind",
+    "url": "https://yosefk.com/blog/people-can-read-their-managers-mind.html"
+  },
+  {
+    "title": "Kensh\u014d -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/tMhEv28KJYWsu6Wdo/kensh?commentId=wgb3wu6kQYdCpoehL"
+  },
+  {
+    "title": "A mechanistic model of meditation -- LessWrong",
+    "url": "https://www.lesswrong.com/posts/WYmmC3W6ZNhEgAmWG/a-mechanistic-model-of-meditation"
+  },
+  {
+    "title": "Product management theater | Marty Cagan (Silicon Valley Product Group)",
+    "url": "https://youtu.be/9N4ZgNaWvI0?si=IZxZS1jLovnU66DO"
+  },
+  {
+    "title": "Leaving LinkedIn | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=39612443"
+  },
+  {
+    "title": "Meditation 101 - Learn How to Meditate in Our Beginner's Guide Animation",
+    "url": "https://youtube.com/watch?v=rqoxYKtEWEc&si=7x8isqhLrMG6fQUu"
+  },
+  {
+    "title": "Breaking Paragraphs into Lines",
+    "url": "http://www.eprg.org/G53DOC/pdfs/knuth-plass-breaking.pdf"
+  },
+  {
+    "title": "The Knuth/Plass line-breaking Algorithm",
+    "url": "https://defoe.sourceforge.net/folio/knuth-plass.html"
+  },
+  {
+    "title": "Knuth",
+    "url": "https://www.ugrad.cs.ubc.ca/~cs490/2015W2/lectures/Knuth.pdf"
+  },
+  {
+    "title": "Donald Knuth - The Patron Saint of Yak Shaves",
+    "url": "https://yakshav.es/the-patron-saint-of-yakshaves/"
+  },
+  {
+    "title": "How to generate uniformly random points on n-spheres and in n-balls | Extreme Learning",
+    "url": "https://extremelearning.com.au/how-to-generate-uniformly-random-points-on-n-spheres-and-n-balls/"
+  },
+  {
+    "title": "1,000 True Fans",
+    "url": "https://kk.org/thetechnium/1000-true-fans/"
+  },
+  {
+    "title": "Super Specific Feedback: How to give actionable feedback on work output",
+    "url": "https://newsletter.weskao.com/p/super-specific-feedback?r=z1gf1"
+  },
+  {
+    "title": "5 Lessons I learned the hard way from 6 years as a software engineer",
+    "url": "https://careercutler.substack.com/p/5-lessons-i-learned-the-hard-way"
+  },
+  {
+    "title": "How to generate text: using different decoding methods for language generation with Transformers",
+    "url": "https://huggingface.co/blog/how-to-generate"
+  },
+  {
+    "title": "Where Is Noether's Principle in Machine Learning?",
+    "url": "https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html"
+  },
+  {
+    "title": "GGUF, the long way around",
+    "url": "https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/"
+  },
+  {
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "url": "https://arxiv.org/abs/2305.18290"
+  },
+  {
+    "title": "Obvious advice",
+    "url": "https://mindingourway.com/obvious-advice/"
+  },
+  {
+    "title": "How I build and run behavioral interviews",
+    "url": "https://www.benkuhn.net/behavioral/"
+  },
+  {
+    "title": "Periodization for Powerlifting - The Definitive Guide | Juggernaut Training Systems",
+    "url": "https://www.jtsstrength.com/periodization-powerlifting-definitive-guide/"
+  },
+  {
+    "title": "It's Humans All the Way Down",
+    "url": "https://blog.jim-nielsen.com/2024/humans-all-the-way-down/"
+  },
+  {
+    "title": "Why it's impossible to agree on what's allowed",
+    "url": "https://danluu.com/impossible-agree/"
+  },
+  {
+    "title": "No Vehicles In The Park",
+    "url": "https://novehiclesinthepark.com/"
+  },
+  {
+    "title": "My productivity app is a never-ending .txt file",
+    "url": "https://jeffhuang.com/productivity_text_file/"
+  },
+  {
+    "title": "Lapce",
+    "url": "https://lapce.dev/"
+  },
+  {
+    "title": "hckr news - Hacker News sorted by time",
+    "url": "https://hckrnews.com/"
+  },
+  {
+    "title": "Hacker News RSS",
+    "url": "https://hnrss.github.io/"
+  },
+  {
+    "title": "Daniel Roelfs",
+    "url": "https://danielroelfs.com/blog/everything-is-a-linear-model/"
+  },
+  {
+    "title": "Diseconomies of scale in fraud, spam, support, and moderation",
+    "url": "https://danluu.com/diseconomies-scale/"
+  },
+  {
+    "title": "Grinder Suggestions",
+    "url": "https://kit.co/tomscoffeecorner/grinder-suggestions"
+  },
+  {
+    "title": "Lies, Damned Lies, and Manometer Readings--Asterisk",
+    "url": "https://asteriskmag.com/issues/05/lies-damned-lies-and-manometer-readings"
+  },
+  {
+    "title": "Thinking about High-Quality Human Data",
+    "url": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/"
+  },
+  {
+    "title": "Normcore LLM Reads",
+    "url": "https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e#llm-inference-and-k-v-cache"
+  },
+  {
+    "title": "How to Scale Hyperparameters as Batch Size Increases",
+    "url": "https://t.co/zMOF68J6zl?ssr=true"
+  },
+  {
+    "title": "A search engine in 80 lines of Python",
+    "url": "https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html"
+  },
+  {
+    "title": "How Do You Spend Your Time? - Marc's Blog",
+    "url": "https://brooker.co.za/blog/2024/02/06/time.html"
+  },
+  {
+    "title": "Content moderation: Como Is Infosec",
+    "url": "https://pluralistic.net/2022/08/07/como-is-infosec/"
+  },
+  {
+    "title": "Introduction to Thompson Sampling: the Bernoulli bandit",
+    "url": "https://gdmarmerola.github.io//ts-for-bernoulli-bandit/"
+  },
+  {
+    "title": "Consistency",
+    "url": "https://surfingcomplexity.blog/2023/12/31/consistency/"
+  },
+  {
+    "title": "Polyphasic Sleep Schedules - POLYPHASIC SLEEP | Sleep Right, Live Well",
+    "url": "https://www.polyphasic.net/polyphasic-sleep-schedules/"
+  },
+  {
+    "title": "A Career Cold Start Algorithm",
+    "url": "https://boz.com/articles/career-cold-start"
+  },
+  {
+    "title": "1 Exercise To Improve Rounded Shoulders",
+    "url": "https://www.youtube.com/watch?v=GcV1Qdt686E"
+  },
+  {
+    "title": "What do executives do, anyway?",
+    "url": "https://apenwarr.ca/log/20190926"
+  },
+  {
+    "title": "Most People Won't",
+    "url": "https://bryce.vc/post/64889707700/most-people-wont"
+  },
+  {
+    "title": "Luxury hotels and resorts in Kerala, Rainforest, Athirapally, Ernakulum",
+    "url": "https://rainforest.in/"
+  },
+  {
+    "title": "Axelrod%20and%20 hamilton%20 ec%201981",
+    "url": "https://websites.umich.edu/~axe/research/Axelrod%20and%20Hamilton%20EC%201981.pdf"
+  },
+  {
+    "title": "cxli233/FriendsDontLetFriends: Friends don't let friends make certain types of data visualization - What are they and why are they bad.",
+    "url": "https://t.co/cr5Tw85ofv"
+  },
+  {
+    "title": "Marry my husband - chapter 37 - manhwateen",
+    "url": "https://www.manhwateen.com/manga/marry-my-husband/chapter-37/"
+  },
+  {
+    "title": "Michael Burry: The Passive Bubble Is Deflating",
+    "url": "https://seekingalpha.com/article/4571634-michael-burry-the-passive-bubble-is-deflating"
+  },
+  {
+    "title": "How to lead large programs like Eddie",
+    "url": "https://epettis.medium.com/how-to-lead-large-programs-like-eddie-a203ebba4e0a"
+  },
+  {
+    "title": "Foundational distributed systems papers",
+    "url": "https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html?m=1"
+  },
+  {
+    "title": "home for the holidays",
+    "url": "https://internetprincess.substack.com/p/home-for-the-holidays"
+  },
+  {
+    "title": "The Usefulness of useless knowledge",
+    "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf"
+  },
+  {
+    "title": "in praise of uselessness",
+    "url": "https://www.avabear.xyz/p/in-praise-of-uselessness"
+  },
+  {
+    "title": "Pluralistic: Tiktok's enshittification (21 Jan 2023) - Pluralistic: Daily links from Cory Doctorow",
+    "url": "https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys"
+  },
+  {
+    "title": "Work Is Work",
+    "url": "https://codahale.com//work-is-work/"
+  },
+  {
+    "title": "Ens\u014d",
+    "url": "https://write.sonnet.io/"
+  },
+  {
+    "title": "Shi-ne meditation (opening awareness) | Vajrayana Now",
+    "url": "https://vajrayananow.com/shi-ne-meditation"
+  },
+  {
+    "title": "Samatha-vipassana - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samatha-vipassana"
+  },
+  {
+    "title": "(Simple alarm) Sit.",
+    "url": "https://sit.sonnet.io/"
+  },
+  {
+    "title": "Your Inbox is a Bandit",
+    "url": "https://parentheticallyspeaking.org/articles/bandit-inbox/"
+  },
+  {
+    "title": "Notes on the Ivory Coast",
+    "url": "https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/"
+  },
+  {
+    "title": "Monads for functional programming by philip walder",
+    "url": "https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf"
+  },
+  {
+    "title": "A Neighborhood of Infinity: You Could Have Invented Monads! (And Maybe You Already Have.)",
+    "url": "http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html"
+  },
+  {
+    "title": "Monads are hard because ...",
+    "url": "https://www.johndcook.com/blog/2014/03/03/monads-are-hard-because/"
+  },
+  {
+    "title": "A Disobedience Guide for Children",
+    "url": "https://aella.substack.com/p/a-disobedience-guide-for-children?utm_source=post-email-title&publication_id=159369&post_id=140212103&utm_campaign=email-post-title&isFreemail=true&r=f8yt5&utm_medium=email"
+  },
+  {
+    "title": "Notes on Effective Altruism",
+    "url": "https://michaelnotebook.com/eanotes/"
+  },
+  {
+    "title": "Willingness to look stupid",
+    "url": "https://danluu.com/look-stupid/"
+  },
+  {
+    "title": "4 billion if statements",
+    "url": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html"
+  },
+  {
+    "title": "Superlinear Returns",
+    "url": "https://paulgraham.com/superlinear.html"
+  },
+  {
+    "title": "What You'll Wish You'd Known",
+    "url": "https://paulgraham.com/hs.html"
+  },
+  {
+    "title": "Aella girl Posts",
+    "url": "https://knowingless.com/popular-posts/"
+  },
+  {
+    "title": "Chocolate Chip Cookie Recipe",
+    "url": "https://www.nist.gov/image/sp-1290-chocolate-chip-cookie-recipe"
+  },
+  {
+    "title": "Rick Chapman is In Search of Stupidity",
+    "url": "https://www.joelonsoftware.com/2003/08/01/rick-chapman-is-in-search-of-stupidity/"
+  },
+  {
+    "title": "J-Curves vs Stairs: Two Approaches to Career Growth",
+    "url": "https://mollyg.substack.com/p/j-curve"
+  },
+  {
+    "title": "10 Things Software Developers Should Learn about Learning",
+    "url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext"
+  },
+  {
+    "title": "Shreyas Doshi on Twitter / X",
+    "url": "https://t.co/032br8hTPO?ssr=true"
+  },
+  {
+    "title": "#LatencyTipOfTheDay: brQ: What's wrong with this picture? brA: Everything!",
+    "url": "https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html?m=1"
+  },
+  {
+    "title": "10 things I wish I knew about careers when I started",
+    "url": "https://mollyg.substack.com/p/early-career-advice"
+  },
+  {
+    "title": "why i write",
+    "url": "https://mindmine.substack.com/p/why-i-write"
+  },
+  {
+    "title": "My Missed Career Opportunities, Or Why I'm Not an SVP",
+    "url": "https://www.scarletink.com/p/my-missed-career-opportunities"
+  },
+  {
+    "title": "Meetings for an effective eng organization.",
+    "url": "https://lethain.com/eng-org-meetings/"
+  },
+  {
+    "title": "GenAI and social media content - in conversation with Somya Gupta",
+    "url": "https://www.linkedin.com/pulse/genai-social-media-content-conversation-somya-gupta-salinkar?utm_source=share&utm_medium=member_ios&utm_campaign=share_via"
+  },
+  {
+    "title": "skhd config",
+    "url": "https://gist.github.com/RobertMenke/b03028b9a0bf60443ec02fd62b3567e1"
+  },
+  {
+    "title": "First principles thinking",
+    "url": "https://www.lennysnewsletter.com/p/first-principles-thinking?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Kesamutti Sutta - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Kesamutti_Sutta"
+  },
+  {
+    "title": "Onboarding: Learn the fundamentals of Logseq in 70 minutes - Logseq Community Hub",
+    "url": "https://hub.logseq.com/getting-started/uQdEHALJo7RWnDLLLP7uux/onboarding-learn-the-fundamentals-of-logseq-in-70-minutes/iPUPLPx7dZgPuASHtqNu2m"
+  },
+  {
+    "title": "GitHub - vimwiki/vimwiki: Personal Wiki for Vim",
+    "url": "https://github.com/vimwiki/vimwiki"
+  },
+  {
+    "title": "Typing the technical interview",
+    "url": "https://aphyr.com/posts/342-typing-the-technical-interview"
+  },
+  {
+    "title": "Hexing the technical interview",
+    "url": "https://aphyr.com/posts/341-hexing-the-technical-interview"
+  },
+  {
+    "title": "Writers who operate.",
+    "url": "https://lethain.com/writers-who-operate/"
+  },
+  {
+    "title": "Yoga Nidra (30min) For Manifesting Your Intentions - Guided Meditation WIth Alpha/Theta/Delta Brainwaves",
+    "url": "https://m.youtube.com/watch?feature=shared&v=iEw5BkK9K9A"
+  },
+  {
+    "title": "Book Review: Sadly, Porn",
+    "url": "https://www.astralcodexten.com/p/book-review-sadly-porn"
+  },
+  {
+    "title": "Why if TYPE_CHECKING?",
+    "url": "https://vickiboykis.com/2023/12/11/why-if-type_checking/"
+  },
+  {
+    "title": "The Little Book of Deep Learning",
+    "url": "https://fleuret.org/francois/lbdl.html"
+  },
+  {
+    "title": "A Camera, Not an Engine",
+    "url": "https://studio.ribbonfarm.com/p/a-camera-not-an-engine"
+  },
+  {
+    "title": "How the Bitcoin protocol actually works - DDI",
+    "url": "https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/"
+  },
+  {
+    "title": "Meditations On Moloch",
+    "url": "https://t.co/ifGGieMEHB"
+  },
+  {
+    "title": "Psychology of Human Misjudgment (Transcript) by Charlie Munger",
+    "url": "https://fs.blog/great-talks/psychology-human-misjudgment/"
+  },
+  {
+    "title": "Kafka's Remarkable Letter to His Abusive and Narcissistic Father",
+    "url": "https://www.themarginalian.org/2015/03/05/franz-kafka-letter-father/"
+  },
+  {
+    "title": "uncertain_ground_truth/monte_carlo.py at main \u00b7 google-deepmind/uncertain_ground_truth",
+    "url": "https://github.com/google-deepmind/uncertain_ground_truth/blob/main/monte_carlo.py"
+  },
+  {
+    "title": "The Placeholder Girlfriend",
+    "url": "https://parhelia.conorbarnes.com/p/the-placeholder-girlfriend"
+  },
+  {
+    "title": "Reflections on a year of reading Knuth",
+    "url": "https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art055"
+  },
+  {
+    "title": "Fasc5b",
+    "url": "https://cs.stanford.edu/~knuth/fasc5b.ps.gz"
+  },
+  {
+    "title": "Cloud arch patterns",
+    "url": "https://www.slideshare.net/CoreyHuinker/cloud-arch-patterns-92005369"
+  },
+  {
+    "title": "Model alignment protects against accidental harms, not intentional ones",
+    "url": "https://www.aisnakeoil.com/p/model-alignment-protects-against"
+  },
+  {
+    "title": "John Carmack on Inlined Code",
+    "url": "http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html"
+  },
+  {
+    "title": "The Last Psychiatrist: Don't Hate Her Because She's Successful",
+    "url": "https://thelastpsychiatrist.com/2013/03/dont_hate_her_because_shes_suc.html#more"
+  },
+  {
+    "title": "The Last Psychiatrist: Hunger Games Catching Fire: Badass Body Count",
+    "url": "https://thelastpsychiatrist.com/2013/11/hunger_games_catching_fire_bad.html#more"
+  },
+  {
+    "title": "The Last Psychiatrist: Who Can Know How Much Randi Zuckerberg Is Worth?",
+    "url": "https://thelastpsychiatrist.com/2014/03/who_can_know_how_much_randi_zu.html"
+  },
+  {
+    "title": "The Last Psychiatrist: Who Bullies The Bullies?",
+    "url": "https://thelastpsychiatrist.com/2014/05/cyberbll.html"
+  },
+  {
+    "title": "The Last Psychiatrist: No Self-Respecting Woman Would Go Out Without Make Up",
+    "url": "https://thelastpsychiatrist.com/2013/01/no_self-respecting_woman_would.html"
+  },
+  {
+    "title": "Color: From Hexcodes to Eyeballs",
+    "url": "https://jamie-wong.com/post/color/"
+  },
+  {
+    "title": "Holiday Season Gift Ideas for Techies",
+    "url": "https://newsletter.pragmaticengineer.com/p/holiday-season-gift-ideas-for-techies"
+  },
+  {
+    "title": "Reality has a surprising amount of detail",
+    "url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
+  },
+  {
+    "title": "4 Simple Steps to Stop Procrastinating",
+    "url": "https://www.thefriendlymind.com/4-simple-steps-to-stop-procrastinating/"
+  },
+  {
+    "title": "The Myth of RAM, part I",
+    "url": "https://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html"
+  },
+  {
+    "title": "Brief remarks on some of my creative interests",
+    "url": "https://michaelnotebook.com/ti/index.html"
+  },
+  {
+    "title": "Efficiency is the Enemy",
+    "url": "https://fs.blog/slack/"
+  },
+  {
+    "title": "Dr. Willoughby Britton -- The Hidden Risks of Meditation, Overlaps with Psychedelic Risks, Harm Reduction Strategies, How to Choose a Retreat, Near-Death Experiences, and More (#705) - The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog/2023/11/22/dr-willoughby-britton/"
+  },
+  {
+    "title": "Hixie's Natural Log: Reflecting on 18 years at Google",
+    "url": "https://ln.hixie.ch/?start=1700627373&count=1"
+  },
+  {
+    "title": "http://feedproxy.google.com/~r/68131/~3/HMu9YypLgsI/",
+    "url": "http://feedproxy.google.com/~r/68131/~3/HMu9YypLgsI/"
+  },
+  {
+    "title": "Maze: A visual analogy for graph neural networks",
+    "url": "https://portal.valencelabs.com/blogs/post/maze-a-visual-analogy-for-graph-neural-networks-dMfx6xdOSj0R8JB"
+  },
+  {
+    "title": "Monaspace",
+    "url": "https://monaspace.githubnext.com/"
+  },
+  {
+    "title": "Book Review: Fussell On Class",
+    "url": "https://www.astralcodexten.com/p/book-review-fussell-on-class"
+  },
+  {
+    "title": "The Michael Scott Theory of Social Class",
+    "url": "https://alexdanco.com/2021/01/22/the-michael-scott-theory-of-social-class/"
+  },
+  {
+    "title": "What I learned getting acquired by Google",
+    "url": "https://shreyans.org/google"
+  },
+  {
+    "title": "Inside OpenAI: How does ChatGPT Ship So Quickly?",
+    "url": "https://newsletter.pragmaticengineer.com/p/inside-openai-how-does-chatgpt-ship?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Being Busy Isn't the Same As Getting Shit Done",
+    "url": "http://bookofhook.blogspot.com/2013/01/being-busy-isnt-same-as-getting-work.html"
+  },
+  {
+    "title": "Productivity vs. Uncertainty & Apathy",
+    "url": "http://bookofhook.blogspot.com/2012/09/productivity-vs-uncertainty-apathy.html"
+  },
+  {
+    "title": "Tidy Reader",
+    "url": "https://stephango.com/tidy"
+  },
+  {
+    "title": "Tidy URL",
+    "url": "https://stephango.com/tidyurl"
+  },
+  {
+    "title": "Solarized",
+    "url": "https://ethanschoonover.com/solarized/"
+  },
+  {
+    "title": "The Techno-Optimist Manifesto | Andreessen Horowitz",
+    "url": "https://a16z.com/the-techno-optimist-manifesto/"
+  },
+  {
+    "title": "git rebase: what can go wrong?",
+    "url": "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/"
+  },
+  {
+    "title": "Things That Aren't Doing the Thing",
+    "url": "https://strangestloop.io/essays/things-that-arent-doing-the-thing"
+  },
+  {
+    "title": "Winter 2023-2024 Reading Group Papers | Aleksey Charapko",
+    "url": "http://charap.co/winter-2023-2024-reading-group-papers/"
+  },
+  {
+    "title": "How To Make Butter Chicken At Home | Restaurant Style Recipe | The Bombay Chef - Varun Inamdar - YouTube",
+    "url": "https://m.youtube.com/watch?v=a03U45jFxOI"
+  },
+  {
+    "title": "Osdi23 grubic",
+    "url": "https://www.usenix.org/system/files/osdi23-grubic.pdf"
+  },
+  {
+    "title": "Youtube's Anti-adblock and uBlock Origin - And a Dinosaur",
+    "url": "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin"
+  },
+  {
+    "title": "My First BillG Review",
+    "url": "https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/"
+  },
+  {
+    "title": "Momentum investing Strategy",
+    "url": "https://m.youtube.com/watch?v=tpFhIJbLTiw&feature=youtu.be"
+  },
+  {
+    "title": "XGBoost: A Scalable Tree Boosting System",
+    "url": "https://arxiv.org/pdf/1603.02754.pdf"
+  },
+  {
+    "title": "Introduction to Boosted Trees -- xgboost library documentation",
+    "url": "https://xgboost.readthedocs.io/en/latest/tutorials/model.html"
+  },
+  {
+    "title": "Thoughts on techno-optimism",
+    "url": "https://www.noahpinion.blog/p/thoughts-on-techno-optimism"
+  },
+  {
+    "title": "Marvelous Arithmetics of Distance",
+    "url": "https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/"
+  },
+  {
+    "title": "Engineering mgmt checklist",
+    "url": "http://pnewman.org/engineering_mgmt_checklist.txt"
+  },
+  {
+    "title": "Nakatomi Space",
+    "url": "https://www.bldgblog.com/2010/01/nakatomi-space/"
+  },
+  {
+    "title": "Knightmare: A DevOps Cautionary Tale",
+    "url": "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/"
+  },
+  {
+    "title": "Complish",
+    "url": "https://complish.ai/"
+  },
+  {
+    "title": "Grab bag of random thoughts. @ Irrational Exuberance",
+    "url": "https://us20.campaign-archive.com/?u=f7003ed301623a88fab7cf783&id=75bb1c2fa9"
+  },
+  {
+    "title": "Time and energy.",
+    "url": "https://lethain.com/time-and-energy/"
+  },
+  {
+    "title": "Background",
+    "url": "http://darnault-parcollet.fr/documents/Background.pdf"
+  },
+  {
+    "title": "Post-mortems to the rescue - Increment: Documentation",
+    "url": "https://increment.com/documentation/post-mortems-to-the-rescue/"
+  },
+  {
+    "title": "Testing in Production: the hard parts",
+    "url": "https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592"
+  },
+  {
+    "title": "Sizing engineering teams.",
+    "url": "https://lethain.com/sizing-engineering-teams/"
+  },
+  {
+    "title": "A forty-year career.",
+    "url": "https://lethain.com/forty-year-career/"
+  },
+  {
+    "title": "The Kingdoms Of Ruin chapter 1 - English Scans",
+    "url": "https://thekingdomsofruin.com/manga/the-kingdoms-of-ruin-chapter-1/?date=2023-10-12"
+  },
+  {
+    "title": "Common statistical tests are linear models (or: how to teach stats)",
+    "url": "https://lindeloev.github.io/tests-as-linear/#"
+  },
+  {
+    "title": "Building personal and organizational prestige @ Irrational Exuberance",
+    "url": "https://us20.campaign-archive.com/?u=f7003ed301623a88fab7cf783&id=82f5a91da9"
+  },
+  {
+    "title": "I'm Sorry I Bit You During My Job Interview",
+    "url": "https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview"
+  },
+  {
+    "title": "Qualitative Cost of Delay - BLACK SWAN FARMING",
+    "url": "https://blackswanfarming.com/qualitative-cost-delay/"
+  },
+  {
+    "title": "The Handbook of Rationality",
+    "url": "https://direct.mit.edu/books/oa-edited-volume/5525/The-Handbook-of-Rationality"
+  },
+  {
+    "title": "Beware of the Big Tech \u201cBubble\u201d",
+    "url": "https://carloarg02.medium.com/beware-of-the-big-tech-bubble-cd348087f5f7"
+  },
+  {
+    "title": "Violence",
+    "url": "https://www.fooledbyrandomness.com/violence.pdf"
+  },
+  {
+    "title": "Flexoki",
+    "url": "https://stephango.com/flexoki"
+  },
+  {
+    "title": "22 Invaluable Life and Career Lessons",
+    "url": "https://www.scarletink.com/22-invaluable-life-and-career-lessons/"
+  },
+  {
+    "title": "The Gift of It's Your Problem Now",
+    "url": "https://apenwarr.ca/log/20211229"
+  },
+  {
+    "title": "Staying technical as an engineering manager",
+    "url": "https://newsletter.pragmaticengineer.com/p/staying-technical"
+  },
+  {
+    "title": "Staying Hands-On, as an Engineering Manager or a Tech Lead",
+    "url": "https://newsletter.pragmaticengineer.com/p/staying-hands-on"
+  },
+  {
+    "title": "From the India_Investments community on Reddit",
+    "url": "https://reddit.com/r/India_Investments/s/LFYLmYGTGo"
+  },
+  {
+    "title": "The Psychology of Human Misjudgement - Charlie Munger Full Speech",
+    "url": "https://m.youtube.com/watch?si=TCii72vDRwNq8SAE&v=Jv7sLrON7QY&feature=youtu.be"
+  },
+  {
+    "title": "Creating Authority",
+    "url": "https://compressed.substack.com/p/creating-authority?r=21fohq&utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "The Magic Loop",
+    "url": "https://www.lennysnewsletter.com/p/the-magic-loop?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "inarticulable knowledge",
+    "url": "https://www.avabear.xyz/p/inarticulable-knowledge"
+  },
+  {
+    "title": "Court Marriage Process in India | My Experience | Special Marriage Act",
+    "url": "https://youtu.be/zBUPBEn3TJw?si=SVQURtQMoPCmGpSu"
+  },
+  {
+    "title": "The Tyranny of the Marginal User",
+    "url": "https://open.substack.com/pub/nothinghuman/p/the-tyranny-of-the-marginal-user?utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Exceptional",
+    "url": "https://sigilwen.ca/exceptional.html"
+  },
+  {
+    "title": "Nat Friedman",
+    "url": "https://nat.org/"
+  },
+  {
+    "title": "Longevity FAQ -- Laura Deming",
+    "url": "https://www.ldeming.com/longevityfaq"
+  },
+  {
+    "title": "GPT in 60 Lines of NumPy | Jay Mody",
+    "url": "https://jaykmody.com/blog/gpt-from-scratch/"
+  },
+  {
+    "title": "India's TOP Divorce Lawyer On Indian Marriages, Cheating & Dowry - Vandana Shah | FO 76 Raj Shamani",
+    "url": "https://www.youtube.com/watch?v=LXEQKl0SCAs"
+  },
+  {
+    "title": "Nassim Nicholas Taleb & Scott Patterson -- How Traders Make Billions in The New Age of Crisis, Defending Against Silent Risks, Personal Independence, Skepticism Where It (Really) Counts, The Bishop and The Economist, and Much More (#691) - The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog/2023/09/07/nassim-nicholas-taleb-scott-patterson/"
+  },
+  {
+    "title": "Building Meta's Threads App (Real-World Engineering Challenges)",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-the-threads-app"
+  },
+  {
+    "title": "https://www.youtube.com/live/un9dkq0o690?si=jqsN8A1hLV99EBMg",
+    "url": "https://t.co/uUdlnx3HVo"
+  },
+  {
+    "title": "Relax for the same result | Derek Sivers",
+    "url": "https://sive.rs/relax"
+  },
+  {
+    "title": "The Stanford Marshmallow Prison Experiment",
+    "url": "https://www.tumblr.com/hotelconcierge/113360634364/the-stanford-marshmallow-prison-experiment"
+  },
+  {
+    "title": "Understanding GPT tokenizers",
+    "url": "https://simonwillison.net/2023/Jun/8/gpt-tokenizers/"
+  },
+  {
+    "title": "Measuring developer productivity? A response to McKinsey",
+    "url": "https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity"
+  },
+  {
+    "title": "Measuring developer productivity? A response to McKinsey, Part 2",
+    "url": "https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2"
+  },
+  {
+    "title": "Large Language Models and Transformers",
+    "url": "https://simons.berkeley.edu/workshops/large-language-models-transformers"
+  },
+  {
+    "title": "Connective Tissue: The Key to Preventing ACL Injuries",
+    "url": "https://www.stack.com/a/connective-tissue-exercises/"
+  },
+  {
+    "title": "John T. Reed's views of various real-estate-investment gurus Part 3",
+    "url": "https://johntreed.com/blogs/john-t-reed-s-real-estate-investment-blog/61654403-john-t-reed-s-views-of-various-real-estate-investment-gurus-part-3"
+  },
+  {
+    "title": "An observation on Generalization",
+    "url": "https://www.youtube.com/live/AKMuA_TVz3A?si=PtIzjhHTBdSmDb8o"
+  },
+  {
+    "title": "Transformer Architecture: The Positional Encoding - Amirhossein Kazemnejad's Blog",
+    "url": "https://kazemnejad.com/blog/transformer_architecture_positional_encoding/"
+  },
+  {
+    "title": "Transformers from Sratch",
+    "url": "https://e2eml.school/transformers.html"
+  },
+  {
+    "title": "What the hell is going on with data?",
+    "url": "https://databased.pedramnavid.com/p/what-the-hell-is-going-on-with-data"
+  },
+  {
+    "title": "The Mathematician's Weapon | An Introduction to Category Theory, Abstraction and Algebra | #SoME3",
+    "url": "https://youtu.be/FQYOpD7tv30"
+  },
+  {
+    "title": "Transformer Inference Arithmetic | kipply's blog",
+    "url": "https://kipp.ly/transformer-inference-arithmetic/"
+  },
+  {
+    "title": "Managing difficult software engineers",
+    "url": "https://vadimkravcenko.com/shorts/managing-bad-engineers/"
+  },
+  {
+    "title": "DIY Espresso",
+    "url": "https://www.fourbardesign.com/2020/10/diy-espresso.html?m=1"
+  },
+  {
+    "title": "Putting Ideas into Words",
+    "url": "http://www.paulgraham.com/words.html"
+  },
+  {
+    "title": "Normcore LLM Reads",
+    "url": "https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e"
+  },
+  {
+    "title": "Probabilistic machine learning: Kevin murphy",
+    "url": "https://probml.github.io/pml-book/book2.html#toc"
+  },
+  {
+    "title": "Hierarchical Navigable Small Worlds (HNSW)",
+    "url": "https://www.pinecone.io/learn/series/faiss/hnsw/"
+  },
+  {
+    "title": "Code Review Developer Guide",
+    "url": "https://google.github.io/eng-practices/review/"
+  },
+  {
+    "title": "Invariants: A Better Debugger? - Marc's Blog",
+    "url": "https://brooker.co.za/blog/2023/07/28/ds-testing.html"
+  },
+  {
+    "title": "How I use memory systems",
+    "url": "https://t.co/gOd5Oa3VLn"
+  },
+  {
+    "title": "Brain, Bytes, Back, Buns - The Programmer's Priorities",
+    "url": "https://www.hanselman.com/blog/brain-bytes-back-buns-the-programmers-priorities"
+  },
+  {
+    "title": "Perspectives on diffusion",
+    "url": "https://sander.ai/2023/07/20/perspectives.html"
+  },
+  {
+    "title": "The Four Horsemen: Criticism, Contempt, Defensiveness, & Stonewalling",
+    "url": "https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/"
+  },
+  {
+    "title": "Everything is a Model | Delip Rao",
+    "url": "https://deliprao.com/everything-is-a-model"
+  },
+  {
+    "title": "An introduction to the 4 Vocal Modes",
+    "url": "https://cvtresearch.com/vocal-modes/general/"
+  },
+  {
+    "title": "Trainable Transformer in Transformer",
+    "url": "https://arxiv.org/abs/2307.01189"
+  },
+  {
+    "title": "Wardley map - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Wardley_map"
+  },
+  {
+    "title": "fast.ai - AI Safety and the Age of Dislightenment",
+    "url": "https://www.fast.ai/posts/2023-11-07-dislightenment.html"
+  },
+  {
+    "title": "ExRx.net : Home",
+    "url": "https://exrx.net/"
+  },
+  {
+    "title": "The mathematically correct way to tie your shoes",
+    "url": "https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/"
+  },
+  {
+    "title": "Meta-analytic relations between personality and cognitive ability | Proceedings of the National Academy of Sciences",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2212794120"
+  },
+  {
+    "title": "HTML to Markdown Converter",
+    "url": "https://codebeautify.org/html-to-markdown"
+  },
+  {
+    "title": "How to Learn Math and Physics by John Baez",
+    "url": "https://math.ucr.edu/home/baez/books.html"
+  },
+  {
+    "title": "The Age of the Essay",
+    "url": "http://paulgraham.com/essay.html"
+  },
+  {
+    "title": "Write Like You Talk",
+    "url": "http://paulgraham.com/talk.html"
+  },
+  {
+    "title": "How to Write Usefully",
+    "url": "http://paulgraham.com/useful.html"
+  },
+  {
+    "title": "Shirky: A Group Is Its Own Worst Enemy",
+    "url": "https://web.archive.org/web/20190426080047/http://shirky.com/writings/group_enemy.html"
+  },
+  {
+    "title": "On Dark Triads in Silicon Valley",
+    "url": "https://xander.ai/on-dark-triads-in-silicon-valley"
+  },
+  {
+    "title": "Healthy Eating: The Beginner's Guide on How to Eat Healthy and Stick to It",
+    "url": "https://jamesclear.com/eat-healthy"
+  },
+  {
+    "title": "How to Stop Lying to Ourselves: A Call for Self-Awareness",
+    "url": "https://jamesclear.com/stethoscope-self-awareness"
+  },
+  {
+    "title": "The Scientific Argument for Mastering One Thing at a Time",
+    "url": "https://jamesclear.com/master-one-thing"
+  },
+  {
+    "title": "The Beginner's Guide to Deliberate Practice",
+    "url": "https://jamesclear.com/beginners-guide-deliberate-practice"
+  },
+  {
+    "title": "Absolute Success is Luck. Relative Success is Hard Work.",
+    "url": "https://jamesclear.com/luck-vs-hard-work"
+  },
+  {
+    "title": "When the 80/20 Rule Fails: The Downside of Being Effective",
+    "url": "https://jamesclear.com/the-downside-of-being-effective"
+  },
+  {
+    "title": "The Proven Path to Creating Unique and Meaningful Work",
+    "url": "https://jamesclear.com/stay-on-the-bus"
+  },
+  {
+    "title": "The Ultimate Habit Tracker Guide: Why and How to Track Your Habits",
+    "url": "https://jamesclear.com/habit-tracker"
+  },
+  {
+    "title": "How to Do Great Work",
+    "url": "http://paulgraham.com/greatwork.html"
+  },
+  {
+    "title": "Ray Peat",
+    "url": "https://raypeat.com/articles/"
+  },
+  {
+    "title": "Elegant Objects",
+    "url": "https://www.elegantobjects.org/"
+  },
+  {
+    "title": "Naming things",
+    "url": "https://vickiboykis.com/2023/06/29/naming-things/"
+  },
+  {
+    "title": "All Success Is A Lagging Indicator - RyanHoliday.net",
+    "url": "https://ryanholiday.net/all-success-is-a-lagging-indicator/?amp=1"
+  },
+  {
+    "title": "Jessica Livingston",
+    "url": "http://www.paulgraham.com/jessica.html"
+  },
+  {
+    "title": "The Five Stages of SRE",
+    "url": "https://www.usenix.org/system/files/login/articles/login_winter18_02_purgason.pdf"
+  },
+  {
+    "title": "Workout Programs",
+    "url": "https://forum.bodybuilding.com/showthread.php?t=107926751&page=1"
+  },
+  {
+    "title": "Book summary: An Elegant Puzzle: Systems of Engineering Management",
+    "url": "https://github.com/keyvanakbary/learning-notes/blob/master/books/an-elegant-puzzle.md#an-elegant-puzzle-systems-of-engineering-management"
+  },
+  {
+    "title": "Dads Can't Have It All Either",
+    "url": "https://www.thefp.com/p/dads-cant-have-it-all-either"
+  },
+  {
+    "title": "Smart Guy Productivity Pitfalls",
+    "url": "https://waivek.github.io/website/tooltip.html"
+  },
+  {
+    "title": "Moving Blazingly Fast With The Core Vim Motions | Barbarian Meets Coding",
+    "url": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/"
+  },
+  {
+    "title": "On the Convergence of the Unadjusted Langevin Algorithm",
+    "url": "https://fa.bianp.net/blog/2023/ulaq/"
+  },
+  {
+    "title": "Why Perl?",
+    "url": "https://two-wrongs.com/why-perl.html"
+  },
+  {
+    "title": "What is Social Status?",
+    "url": "https://www.robkhenderson.com/p/what-is-social-status"
+  },
+  {
+    "title": "Tech debt metaphor maximalism",
+    "url": "https://apenwarr.ca/log/20230605"
+  },
+  {
+    "title": "Johnny.Decimal system",
+    "url": "https://johnnydecimal.com/"
+  },
+  {
+    "title": "How to seem good at everything: Stop doing stupid shit",
+    "url": "https://web.archive.org/web/20120428193015/http://jinfiesto.posterous.com/how-to-seem-good-at-everything-stop-doing-stu"
+  },
+  {
+    "title": "Iterative \ud835\udefc-(de)Blending: a Minimalist Deterministic Diffusion Model",
+    "url": "https://ggx-research.github.io/publication/2023/05/10/publication-iadb.html"
+  },
+  {
+    "title": "WIP 2018: Ami Vora on the Career Growth Playbook She Wishes She Had",
+    "url": "https://youtu.be/RK2QmZz_yVs"
+  },
+  {
+    "title": "Billionaires Build",
+    "url": "http://paulgraham.com/ace.html"
+  },
+  {
+    "title": "Schleps, Puzzles, and Packages: Solving Complex Problems the Iron Man Way",
+    "url": "https://www.ribbonfarm.com/2013/05/21/schleps-puzzles-and-packages-solving-complex-problems-the-iron-man-way/"
+  },
+  {
+    "title": "What are embeddings?",
+    "url": "https://vickiboykis.com/what_are_embeddings/"
+  },
+  {
+    "title": "Questionable Advice: \u201cHow can I drive change and influence teams\u2026without power?\u201d",
+    "url": "https://charity.wtf/2023/06/05/drive-change-and-influence-teams-without-power/"
+  },
+  {
+    "title": "When Then Zen",
+    "url": "https://when-then-zen.christine.website/"
+  },
+  {
+    "title": "Anything can be a message queue if you use it wrongly enough",
+    "url": "https://xeiaso.net/blog/anything-message-queue"
+  },
+  {
+    "title": "Double-loop learning - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Double-loop_learning"
+  },
+  {
+    "title": "The 4 horsemen of relationship apocalypse",
+    "url": "https://sketchplanations.com/the-4-horsemen-of-relationship-apocalypse"
+  },
+  {
+    "title": "Autonomy mastery purpose",
+    "url": "https://sketchplanations.com/autonomy-mastery-purposehttps://sketchplanations.com/autonomy-mastery-purpose"
+  },
+  {
+    "title": "Goodhart's Law: when a measure becomes a target, it cease to be a good measure.",
+    "url": "https://sketchplanations.com/goodharts-law"
+  },
+  {
+    "title": "Sporadica",
+    "url": "https://michaelnotebook.com/ongoing/sporadica.html#thinking-at-the-mercy-of-professionals-june-3-2023"
+  },
+  {
+    "title": "Promoted from Dev to Team Lead: 8 Things They Didn't Tell Me",
+    "url": "https://devinterrupted.substack.com/p/promoted-from-dev-to-team-lead-8"
+  },
+  {
+    "title": "How to get a busy person to respond to your email",
+    "url": "https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671"
+  },
+  {
+    "title": "What is Similarity Between Sentences?",
+    "url": "https://txt.cohere.com/what-is-similarity-between-sentences/?twclid=2-avs78axmdqedvy9b9pxyt1o6"
+  },
+  {
+    "title": "The Not-So-Secret Secret Elevators of the Haunted Mansion - YouTube",
+    "url": "https://m.youtube.com/watch?v=f1fgzBE2Ffk"
+  },
+  {
+    "title": "Fair Fighting Rules (Worksheet) | Therapist Aid",
+    "url": "https://www.therapistaid.com/therapy-worksheet/fair-fighting-rules"
+  },
+  {
+    "title": "Collections: On the Reign of Cleopatra",
+    "url": "https://acoup.blog/2023/05/26/collections-on-the-reign-of-cleopatra/"
+  },
+  {
+    "title": "Expected performance of a Bloom filter",
+    "url": "https://lemire.me/blog/2023/05/26/expected-performance-of-a-bloom-filter/"
+  },
+  {
+    "title": "Cvm note",
+    "url": "https://cs.stanford.edu/~knuth/papers/cvm-note.pdf"
+  },
+  {
+    "title": "Same Stop",
+    "url": "https://www.engineersneedart.com/blog/samestop/samestop.html"
+  },
+  {
+    "title": "What should you use ChatGPT for?",
+    "url": "https://vickiboykis.com/2023/02/26/what-should-you-use-chatgpt-for/"
+  },
+  {
+    "title": "Reinforcement Learning from Human Feedback (RLHF) - a simplified explanation",
+    "url": "https://gist.github.com/JoaoLages/c6f2dfd13d2484aa8bb0b2d567fbf093"
+  },
+  {
+    "title": "11 Reasons Not to Become Famous (or \"A Few Lessons Learned Since 2007\") - The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/"
+  },
+  {
+    "title": "Bitwise Binary Search: Elegant and Fast | orlp.net",
+    "url": "https://orlp.net/blog/bitwise-binary-search/"
+  },
+  {
+    "title": "1 Minute Kannada Class",
+    "url": "https://www.youtube.com/@1minutekannadaclass"
+  },
+  {
+    "title": "A new way to measure developer productivity - from the creators of DORA and SPACE",
+    "url": "https://open.substack.com/pub/pragmaticengineer/p/developer-productivity-a-new-framework?utm_source=direct&utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Important mutual fund metrics when picking mutual funds",
+    "url": "https://youtu.be/thOejbtcBjo"
+  },
+  {
+    "title": "A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography",
+    "url": "https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/?ref=crnkovic.dev"
+  },
+  {
+    "title": "Geeks, MOPs, and sociopaths in subculture evolution | Meaningness",
+    "url": "https://meaningness.com/geeks-mops-sociopaths"
+  },
+  {
+    "title": "Containers",
+    "url": "https://xkcd.com/1988/"
+  },
+  {
+    "title": "Mental health impacts of a Big Tech job",
+    "url": "https://oilyraincloud.com/2021/08/16/mental-health-impacts-of-a-big-tech-job/"
+  },
+  {
+    "title": "The Worst Mistake of All: Outshining the Master",
+    "url": "https://fs.blog/never-outshine-the-master/"
+  },
+  {
+    "title": "Intuition as search prioritisation",
+    "url": "https://notebook.drmaciver.com/posts/2020-04-12-11:35.html"
+  },
+  {
+    "title": "How to do hard things",
+    "url": "https://www.drmaciver.com/2019/05/how-to-do-hard-things/"
+  },
+  {
+    "title": "Everything you should know about certificates and PKI but are too afraid to ask",
+    "url": "https://smallstep.com/blog/everything-pki/"
+  },
+  {
+    "title": "Difficult Problems and Hard Work",
+    "url": "https://drmaciver.substack.com/p/difficult-problems-and-hard-weeks"
+  },
+  {
+    "title": "Compiler Optimizations Are Hard Because They Forget - Faultlore",
+    "url": "https://faultlore.com/blah/oops-that-was-important/"
+  },
+  {
+    "title": "Using Linear Counting, LogLog, and HyperLogLog to Estimate Cardinality",
+    "url": "https://www.moderndescartes.com/essays/hyperloglog/"
+  },
+  {
+    "title": "Why sdoes/s did Google Brain exist?",
+    "url": "https://www.moderndescartes.com/essays/why_brain/"
+  },
+  {
+    "title": "Getting Big Things Done - Marc's Blog",
+    "url": "https://brooker.co.za/blog/2020/10/19/big-changes.html"
+  },
+  {
+    "title": "Writing Is Magic - Marc's Blog",
+    "url": "https://brooker.co.za/blog/2022/11/08/writing.html"
+  },
+  {
+    "title": "The Four Hobbies, and Apparent Expertise - Marc's Blog",
+    "url": "https://brooker.co.za/blog/2023/04/20/hobbies.html"
+  },
+  {
+    "title": "Cheating is All You Need",
+    "url": "https://about.sourcegraph.com/blog/cheating-is-all-you-need"
+  },
+  {
+    "title": "#143: Dyads, And Other Mysteries -- Daniel Kahneman",
+    "url": "https://josephnoelwalker.com/143-daniel-kahneman/"
+  },
+  {
+    "title": "The Full Circle on Developer Productivity with Steve Yegge",
+    "url": "https://open.substack.com/pub/pragmaticengineer/p/steve-yegge?utm_source=direct&utm_campaign=post&utm_medium=web"
+  },
+  {
+    "title": "Consistency Models",
+    "url": "https://arxiv.org/abs/2303.01469"
+  },
+  {
+    "title": "The Economics of Pricelessness",
+    "url": "https://www.ribbonfarm.com/2014/08/12/the-economics-of-pricelessness/"
+  },
+  {
+    "title": "Money don't buy class\u2026privilege",
+    "url": "https://chelseatroy.com/2023/04/11/money-dont-buy-class-privilege/"
+  },
+  {
+    "title": "Implementing Regular Expressions",
+    "url": "https://swtch.com/~rsc/regexp/"
+  },
+  {
+    "title": "Irregular expressions - tavianator.com",
+    "url": "https://tavianator.com/2023/irregex.html"
+  },
+  {
+    "title": "Starting principles: How to find your principles",
+    "url": "https://www.julian.com/blog/starting-principles#"
+  },
+  {
+    "title": "Make Your Own Rules",
+    "url": "https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/"
+  },
+  {
+    "title": "Behind the curtain: what it feels like to work in AI right now",
+    "url": "https://robotic.substack.com/p/behind-the-curtain-ai"
+  },
+  {
+    "title": "Diffusion language models",
+    "url": "https://sander.ai/2023/01/09/diffusion-language.html"
+  },
+  {
+    "title": "Harvey Weinstein and the Common Knowledge Game",
+    "url": "https://www.epsilontheory.com/harvey-weinstein-common-knowledge-game/"
+  },
+  {
+    "title": "An On-Ramp to Flow",
+    "url": "https://census.dev/blog/an-on-ramp-to-flow"
+  },
+  {
+    "title": "How software companies die",
+    "url": "https://homepages.uc.edu/~thomam/Articles/HowSoftwareCompaniesDie.pdf"
+  },
+  {
+    "title": "Bullsh*t Jobs",
+    "url": "https://vadimkravcenko.com/shorts/bullshit-jobs/"
+  },
+  {
+    "title": "ByteByteGo Newsletter | Alex Xu | Substack",
+    "url": "https://blog.bytebytego.com/?sort=top"
+  },
+  {
+    "title": "What It Was Like To Code For Amazon (Part 1)",
+    "url": "https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034"
+  },
+  {
+    "title": "Capsule wardrobe - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Capsule_wardrobe"
+  },
+  {
+    "title": "Aswath Damodaran - Making Sense of the Market - [Invest Like the Best, EP. 279]",
+    "url": "https://open.spotify.com/episode/13ka3gqNNqdEeNfsvH1dID?si=0HBcGd67Q-S4VOj2o9HKHQ&nd=1&utm_medium=organic&_branch_referrer=H4sIAAAAAAAAA72NXQuCMBiFf828S9OFUSBR9GEEhgTdxtre2XK5%2BW4W%2Ffs06C8E5%2BJwHh7OzXvr5lHkrPFKvkNmbahVU0cLi0Z03GfGQhOQZCI7rS8d6uw2KIQuSbLtM%2BDwZ3Pz6CewyhkBfYtpzWjVFkUrNlBI98xjsV8TunWK0PU4X%2FGdSKfl6DQ5H%2B%2BJmeWHvPx%2BMa2vjNf%2F%2BCNJ2oiexoEE5juEzGDFGsWDC4IERMDMv5T3gB%2ByFPrbLQEAAA%3D%3D&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F13ka3gqNNqdEeNfsvH1dID%3Fsi%3D0HBcGd67Q-S4VOj2o9HKHQ&feature=organic&_referrer=twitter&_branch_match_id=1085189810823345465"
+  },
+  {
+    "title": "How The Economic Machine Works by Ray Dalio - YouTube",
+    "url": "https://m.youtube.com/watch?v=PHe0bXAIuk0"
+  },
+  {
+    "title": "Money creation in the modern economy",
+    "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+  },
+  {
+    "title": "Theory of Constraints 101: Table of Contents - Forte Labs",
+    "url": "https://fortelabs.com/blog/theory-of-constraints-101-table-of-contents/"
+  },
+  {
+    "title": "Using Log-Time Denormalization for Data Wrangling at Meta",
+    "url": "https://medium.com/meta-analytics/using-log-time-denormalization-for-data-wrangling-at-meta-3b6fc050268a"
+  },
+  {
+    "title": "What is your most productive shortcut with Vim?",
+    "url": "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"
+  },
+  {
+    "title": "Vim Best Practices For IDE Users",
+    "url": "https://sebastiancarlos.com/50-vim-mode-tips-for-ide-users-f7b525a794b3"
+  },
+  {
+    "title": "An epic treatise on scheduling, bug tracking, and triage",
+    "url": "https://apenwarr.ca/log/?m=201712#13"
+  },
+  {
+    "title": "Books that explain (parts of) how the world really works",
+    "url": "https://apenwarr.ca/log/20180724"
+  },
+  {
+    "title": "GitHub - kotamorishi/weather-impression: Weather station for PIMORONI Inky Impression(5.7\")",
+    "url": "https://github.com/kotamorishi/weather-impression"
+  },
+  {
+    "title": "The Tyranny of Stuctureless",
+    "url": "https://www.jofreeman.com/joreen/tyranny.htm"
+  },
+  {
+    "title": "Systems design explains the world: volume 1",
+    "url": "https://apenwarr.ca/log/20201227"
+  },
+  {
+    "title": "Finally, A Personality Quiz Backed By Science",
+    "url": "https://projects.fivethirtyeight.com/personality-quiz/"
+  },
+  {
+    "title": "Breath",
+    "url": "https://www.voicescienceworks.org/breath.html"
+  },
+  {
+    "title": "CS224U: Natural Language Understanding - Podcast",
+    "url": "https://web.stanford.edu/class/cs224u/podcast/socher/"
+  },
+  {
+    "title": "Etsy Engineering | Improving Support for Deep Learning in Etsy's ML Platform",
+    "url": "https://www.etsy.com/codeascraft/improving-support-for-deep-learning-in-etsy39s-ml-platform"
+  },
+  {
+    "title": "Etsy Engineering | Deep Learning for Search Ranking at Etsy",
+    "url": "https://www.etsy.com/codeascraft/deep-learning-for-search-ranking-at-etsy"
+  },
+  {
+    "title": "Probability 101, the intuition behind martingales and solving problems with them - Codeforces",
+    "url": "https://codeforces.com/blog/entry/110801"
+  },
+  {
+    "title": "On the Mathematics of Diffusion Models",
+    "url": "https://arxiv.org/abs/2301.11108"
+  },
+  {
+    "title": "Squares in Squares",
+    "url": "https://erich-friedman.github.io/packing/squinsqu/"
+  },
+  {
+    "title": "John Carmack on Functional Programming in C++",
+    "url": "http://sevangelatos.com/john-carmack-on/"
+  },
+  {
+    "title": "What Is ChatGPT Doing \u2026 and Why Does It Work?",
+    "url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
+  },
+  {
+    "title": "Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm",
+    "url": "https://arxiv.org/abs/1608.04471"
+  },
+  {
+    "title": "Variational Inference with Normalizing Flows \u00b7 Depth First Learning",
+    "url": "https://www.depthfirstlearning.com/2021/VI-with-NFs"
+  },
+  {
+    "title": "The Comprehensive Core Training Guide",
+    "url": "https://www.strongerbyscience.com/core-training/?ck_subscriber_id=1854729934"
+  },
+  {
+    "title": "MotherDuck: Big Data is Dead",
+    "url": "https://motherduck.com/blog/big-data-is-dead/"
+  },
+  {
+    "title": "How to lose a monopoly: Microsoft, IBM and anti-trust -- Benedict Evans",
+    "url": "https://www.ben-evans.com/benedictevans/2020/01/01/microsoft-monopoly-and-dominance"
+  },
+  {
+    "title": "The Limits of computational photography",
+    "url": "https://yager.io/comp/comp.html"
+  },
+  {
+    "title": "Ask HN: What's the best lecture series you've seen? | Hacker News",
+    "url": "https://news.ycombinator.com/item?id=34591291"
+  },
+  {
+    "title": "Understanding Large Language Models -- A Transformative Reading List",
+    "url": "https://sebastianraschka.com/blog/2023/llm-reading-list.html"
+  },
+  {
+    "title": "Aggregation Theory",
+    "url": "https://stratechery.com/aggregation-theory/"
+  },
+  {
+    "title": "High Variance Management",
+    "url": "https://blog.sbensu.com/posts/2023-01-18-high-variance-management/"
+  },
+  {
+    "title": "myme.no - Git Commands You Probably Do Not Need",
+    "url": "https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html"
+  },
+  {
+    "title": "My 8 Best Techniques for Evaluating Character",
+    "url": "https://tedgioia.substack.com/p/my-8-best-techniques-for-evaluating"
+  },
+  {
+    "title": "There are only bad ideas in brainstorming",
+    "url": "https://theoatmeal.com/comics/creativity_brainstorming"
+  },
+  {
+    "title": "Visualizing Algorithms",
+    "url": "https://bost.ocks.org/mike/algorithms/"
+  },
+  {
+    "title": "Archives - Bartosz Ciechanowski",
+    "url": "https://ciechanow.ski/archives/"
+  },
+  {
+    "title": "Workout Plans: The Science-Backed Guide",
+    "url": "https://www.julian.com/guide/muscle/workout-plans"
+  },
+  {
+    "title": "Greg Yang | Large N Limits: Random Matrices & Neural Networks | The Cartesian Cafe w/ Timothy Nguyen",
+    "url": "https://youtu.be/1aXOXHA7Jcw"
+  },
+  {
+    "title": "2023 Tracker Template - Google Drive",
+    "url": "https://docs.google.com/spreadsheets/d/1W79a98wLeuMjDbJuy0IYDeQYZSVaWjTUCPUpXj24MHs/htmlview"
+  },
+  {
+    "title": "The Continuity of Splines",
+    "url": "https://youtube.com/watch?v=jvPPXbo87ds&si=EnSIkaIECMiOmarE"
+  },
+  {
+    "title": "Friday Finds Links - David Perell",
+    "url": "https://perell.com/friday-finds-links/"
+  },
+  {
+    "title": "\ud83d\uddc4\ufe0f Collections | List",
+    "url": "https://f-schroeder.com/03d2f00a0c1f410083b63ba4b70cfbf6?v=456d4e3774664a87866870c6ef95aba4"
+  },
+  {
+    "title": "Long Form Reads",
+    "url": "https://www.danhock.com/long-form-reads"
+  },
+  {
+    "title": "Motherfucking Website",
+    "url": "https://motherfuckingwebsite.com/"
+  },
+  {
+    "title": "How to Develop Your Leadership Style",
+    "url": "https://hbr.org/2020/11/how-to-develop-your-leadership-style"
+  },
+  {
+    "title": "File formats in comics",
+    "url": "https://github.com/corkami/pics/blob/master/binary/README.md#images"
+  },
+  {
+    "title": "The Well-Actually Graph: How Ideas Spread into society, and where new ideas can be injected.",
+    "url": "https://vance-crowe.medium.com/the-well-actually-graph-how-ideas-spread-into-society-and-where-new-ideas-can-be-injected-b5f43889978b"
+  },
+  {
+    "title": "Skill Shapes",
+    "url": "https://www.goodtechthings.com/skill-shapes/"
+  },
+  {
+    "title": "Invent and Wander: The Collected Writings of Jeff Bezos, With an Introduction by Walter Isaacson",
+    "url": "https://www.amazon.com/dp/B08BCCT6MW?ref_=cm_sw_r_cp_ud_dp_7JP6ASPTTVTXEXTPME2K"
+  },
+  {
+    "title": "Noise: A Flaw in Human Judgment",
+    "url": "https://www.amazon.com/dp/B08LNYM39M?ref_=cm_sw_r_cp_ud_dp_BNJQM3GD72JRWWZ6Z4V7"
+  },
+  {
+    "title": "Designing Your Life: How to Build a Well-Lived, Joyful Life",
+    "url": "https://www.amazon.com/dp/1101875321?ref_=cm_sw_r_cp_ud_dp_14DTQTB6XDMPDX0CJ276"
+  },
+  {
+    "title": "Pixie: Pinterest recommendations system",
+    "url": "https://cs.stanford.edu/people/jure/pubs/pixie-www18.pdf"
+  },
+  {
+    "title": "BLOWING UP - How Nassim Taleb turned the inevitability of disaster into an investment strategy. BY MALCOLM GLADWELL",
+    "url": "https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/03/NYorker2002-blowingup.pdf"
+  },
+  {
+    "title": "How to Get That Staff Engineer Promotion",
+    "url": "https://jkebertz.medium.com/how-to-get-that-staff-engineer-promotion-837cb19fbf44"
+  },
+  {
+    "title": "Why It's So Hard to Become a Staff Engineer",
+    "url": "https://jkebertz.medium.com/why-its-so-hard-to-become-a-staff-engineer-c4b94864a373"
+  },
+  {
+    "title": "Everything I learned about accidentally running a successful tech conference",
+    "url": "https://vickiboykis.com/2022/12/22/everything-i-learned-about-accidentally-running-a-successful-tech-conference/"
+  },
+  {
+    "title": "We Are All Confident Idiots",
+    "url": "https://psmag.com/social-justice/confident-idiots-92793"
+  },
+  {
+    "title": "What Do Women Want?",
+    "url": "https://www.sensualism.com/sex/women.html"
+  },
+  {
+    "title": "A Complete Guide to Tenets",
+    "url": "https://www.scarletink.com/complete-guide-to-tenets/"
+  },
+  {
+    "title": "Special relativity and Middle-Earth",
+    "url": "https://terrytao.wordpress.com/2022/12/18/special-relativity-and-middle-earth/"
+  },
+  {
+    "title": "Are You Behaving Like a Senior Engineer? Tips to Level Up.",
+    "url": "https://www.scarletink.com/are-you-behaving-like-a-senior-engineer-tips/"
+  },
+  {
+    "title": "Proactive vs. Reactive: Understanding the Mechanisms Behind Effective Leadership",
+    "url": "https://www.scarletink.com/proactive-vs-reactive-mechanisms-behind-leadership/"
+  },
+  {
+    "title": "Hit the Ground Running - How to Ramp Up at Your New Job in 3 Weeks",
+    "url": "https://www.scarletink.com/hit-ground-running-ramp-up-new-job-3-weeks/"
+  },
+  {
+    "title": "How To Be Successful",
+    "url": "https://blog.samaltman.com/how-to-be-successful"
+  },
+  {
+    "title": "The Arithmetic of Active Management William F. Sharpe",
+    "url": "https://web.stanford.edu/~wfsharpe/art/active/active.htm"
+  },
+  {
+    "title": "Investing from India - Bogleheads",
+    "url": "https://www.bogleheads.org/wiki/Investing_from_India"
+  },
+  {
+    "title": "Bogleheads\u00ae investment philosophy - Bogleheads",
+    "url": "https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy"
+  },
+  {
+    "title": "Investing Archives - Darius Foroux",
+    "url": "https://dariusforoux.com/category/investing/"
+  },
+  {
+    "title": "Tumblr",
+    "url": "https://tetw.org/Greats"
+  },
+  {
+    "title": "Best Articles: 20 Articles That Can Change Your Life",
+    "url": "https://markmanson.net/best-articles"
+  },
+  {
+    "title": "Best Articles",
+    "url": "https://jamesclear.com/articles"
+  },
+  {
+    "title": "The Log: What every software engineer should know about real-time data's unifying abstraction",
+    "url": "https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying"
+  },
+  {
+    "title": "A quick and dirty post about my first year-ish with ADHD",
+    "url": "https://hypatia.ca/2019/09/05/a-quick-and-dirty-post-about-my-first-year-ish-with-adhd/"
+  },
+  {
+    "title": "How I learn machine learning",
+    "url": "https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/"
+  },
+  {
+    "title": "Essentialism by Greg McKeown [BOOK SUMMARY & PDF]",
+    "url": "https://paulminors.com/blog/essentialism-by-greg-mckeown-book-summary-pdf/"
+  },
+  {
+    "title": "Mochary Method Curriculum",
+    "url": "https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/mobilebasic"
+  },
+  {
+    "title": "The art of the long goodbye",
+    "url": "https://vicki.substack.com/p/the-art-of-the-long-goodbye"
+  },
+  {
+    "title": "(PDF) How complex systems fail",
+    "url": "https://www.researchgate.net/publication/228797158_How_complex_systems_fail"
+  },
+  {
+    "title": "Dashboard++ -- a simple organization and navigation method for Obsidian Vaults",
+    "url": "https://tfthacker.medium.com/dashboard-a-simple-organization-and-navigation-method-for-obsidian-vaults-2b1982d023a0"
+  },
+  {
+    "title": "How to write an effective developer resume: Advice from a hiring manager",
+    "url": "https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/"
+  },
+  {
+    "title": "Get that job at Google",
+    "url": "http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?m=1"
+  },
+  {
+    "title": "Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software",
+    "url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/"
+  },
+  {
+    "title": "CoRise - Search",
+    "url": "https://corise.com/track/search"
+  },
+  {
+    "title": "RecSys 2022 - Recap, Favorite Papers, and Lessons",
+    "url": "https://eugeneyan.com/writing/recsys2022/"
+  },
+  {
+    "title": "Dispelling Beauty Lies",
+    "url": "https://www.jsanilac.com/dispelling-beauty-lies/"
+  },
+  {
+    "title": "Dear Google Cloud: Your Deprecation Policy is Killing You",
+    "url": "https://steve-yegge.medium.com/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc"
+  },
+  {
+    "title": "Toy Models of Superposition",
+    "url": "https://transformer-circuits.pub/2022/toy_model/index.html"
+  },
+  {
+    "title": "Stevey's Google Platforms Rant",
+    "url": "https://gist.github.com/chitchcock/1281611"
+  },
+  {
+    "title": "E.W.Dijkstra Archive: The Humble Programmer (EWD 340)",
+    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html"
+  },
+  {
+    "title": "tabularmusings - How does the Deep & Cross Network v2 find good feature interactions?",
+    "url": "https://www.tabularmusings.com/posts/feature-interactions-dcnv2/"
+  },
+  {
+    "title": "GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge#blogspodcastsvideos-toc"
+  },
+  {
+    "title": "Operationalizing Machine Learning: An Interview Study",
+    "url": "https://arxiv.org/abs/2209.09125"
+  },
+  {
+    "title": "Quick and dirty review of Psychology of Programming Interest Group 1989-2015",
+    "url": "https://t.co/fbQjgbzSFS"
+  },
+  {
+    "title": "Why does he do that",
+    "url": "https://ia800108.us.archive.org/30/items/LundyWhyDoesHeDoThat/Lundy_Why-does-he-do-that.pdf"
+  },
+  {
+    "title": "Category: kotlin",
+    "url": "https://www.ronjeffries.com/categories/kotlin/"
+  },
+  {
+    "title": "Harvard CS 229br: Advanced Topics in the theory of machine learning",
+    "url": "https://boazbk.github.io/mltheoryseminar/cs229br.html"
+  },
+  {
+    "title": "A card trick that will probably amaze your friends",
+    "url": "https://divisbyzero.com/2010/03/15/a-card-trick-that-will-probably-amaze-your-friends/"
+  },
+  {
+    "title": "How to Be Polite",
+    "url": "https://medium.com/s/story/how-to-be-polite-9bf1e69e888c"
+  },
+  {
+    "title": "Giving Good Feedback: Consider the Ratio",
+    "url": "https://charity.wtf/2022/08/15/giving-good-feedback-consider-the-ratio/"
+  },
+  {
+    "title": "Keeping master green at scale",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3302424.3303970"
+  },
+  {
+    "title": "Bayesian inference at scale: Running A/B tests with millions of observations - PyMC Labs",
+    "url": "https://www.pymc-labs.io/blog-posts/bayesian-inference-at-scale-running-ab-tests-with-millions-of-observations/"
+  },
+  {
+    "title": "TBT 35/52: The Benefits of Stubborn Consistency",
+    "url": "https://cutlefish.substack.com/p/tbt-3552-the-benefits-of-stubborn?r=3ih8g&s=r&utm_campaign=post&utm_medium=email"
+  },
+  {
+    "title": "How to present to executives.",
+    "url": "https://lethain.com/present-to-executives/"
+  },
+  {
+    "title": "A Story About \u2018Magic'",
+    "url": "http://catb.org/jargon/html/magic-story.html"
+  },
+  {
+    "title": "How we're improving search results when you use quotes",
+    "url": "https://blog.google/products/search/how-were-improving-search-results-when-you-use-quotes/"
+  },
+  {
+    "title": "Breaking the Softmax Bottleneck: A High-Rank RNN Language Model",
+    "url": "https://arxiv.org/abs/1711.03953"
+  },
+  {
+    "title": "the depression thing",
+    "url": "https://zachholman.com/posts/the-depression-thing"
+  },
+  {
+    "title": "How does Angel Investing?",
+    "url": "https://zachholman.com/posts/how-does-angel-investing"
+  },
+  {
+    "title": "My Favorite Tweet",
+    "url": "https://zachholman.com/posts/my-favorite-tweet"
+  },
+  {
+    "title": "The Kobayashi Maru of Comparing Dates with Times",
+    "url": "https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times"
+  },
+  {
+    "title": "The Fitness Wiki",
+    "url": "https://thefitness.wiki/"
+  },
+  {
+    "title": "UTC is Enough for Everyone, Right?",
+    "url": "https://zachholman.com/talk/utc-is-enough-for-everyone-right"
+  },
+  {
+    "title": "Dates, Times, Calendars-- The Universal Source of Data Science Trauma",
+    "url": "https://counting.substack.com/p/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1"
+  },
+  {
+    "title": "Tough love for managers who need to give feedback",
+    "url": "https://larahogan.me/blog/tough-love-for-managers-giving-feedback/"
+  },
+  {
+    "title": "Archives",
+    "url": "https://randsinrepose.com/archives/"
+  },
+  {
+    "title": "Ask a Manager",
+    "url": "https://www.askamanager.org/"
+  },
+  {
+    "title": "The Enemy",
+    "url": "https://randsinrepose.com/archives/the-enemy/"
+  },
+  {
+    "title": "Looking back at two years at Automattic and Tumblr",
+    "url": "https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/"
+  },
+  {
+    "title": "An Algorithm for Passing Programming Interviews - malisper.me",
+    "url": "https://malisper.me/an-algorithm-for-passing-programming-interviews/"
+  },
+  {
+    "title": "What I Miss About Working at Stripe",
+    "url": "https://every.to/p/what-i-miss-about-working-at-stripe"
+  },
+  {
+    "title": "The Power of 3 Program",
+    "url": "https://www.t-nation.com/training/the-power-of-3-program/"
+  },
+  {
+    "title": "Transitioning into the Staff+ Engineer Role - from Player to Coach",
+    "url": "https://www.infoq.com/articles/transitioning-staff-plus-coach/"
+  },
+  {
+    "title": "The McGill Big 3 For Core Stability",
+    "url": "https://squatuniversity.com/2018/06/21/the-mcgill-big-3-for-core-stability/amp/"
+  },
+  {
+    "title": "Why it breaks your brain to take a compliment",
+    "url": "https://theoatmeal.com/comics/brain_compliments"
+  },
+  {
+    "title": "Doordash and Pizza Arbitrage",
+    "url": "https://www.readmargins.com/p/doordash-and-pizza-arbitrage/comments#comment-220885"
+  },
+  {
+    "title": "Finite and Infinite Games: Two Ways to Play the Game of Life - Farnam Street",
+    "url": "https://fs.blog/finite-and-infinite-games/"
+  },
+  {
+    "title": "IAML Distill Blog: Transformers in Vision",
+    "url": "https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/"
+  },
+  {
+    "title": "Second-Order Thinking: What Smart People Use to Outperform - Farnam Street",
+    "url": "https://fs.blog/second-order-thinking/"
+  },
+  {
+    "title": "We All Need Some Perspective",
+    "url": "https://www.thewoodshedd.com/posts/2021-08-16-talentdistribution/"
+  },
+  {
+    "title": "Mark sellers you want to be the next warren buffett",
+    "url": "https://moiglobal.com/wp-content/uploads/mark-sellers_you-want-to-be-the-next-warren-buffett.pdf"
+  },
+  {
+    "title": "Reading a Profit & Loss statement.",
+    "url": "https://lethain.com/profit-and-loss-statement/"
+  },
+  {
+    "title": "Job Hunt as a PhD in AI / ML / RL: How it Actually Happens",
+    "url": "https://www.natolambert.com/writing/ai-phd-job-hunt"
+  },
+  {
+    "title": "Shoulder Rehab Case Study - YouTube",
+    "url": "https://m.youtube.com/watch?v=xFt0IECBwdo"
+  },
+  {
+    "title": "The Seniority Roller Coaster and Down-Leveling in Tech",
+    "url": "https://blog.pragmaticengineer.com/the-seniority-roller-coaster/"
+  },
+  {
+    "title": "Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.",
+    "url": "https://www.joshwcomeau.com/css/make-beautiful-gradients/"
+  },
+  {
+    "title": "Resources for leading through crises",
+    "url": "https://larahogan.me/blog/resources-leading-through-crises/"
+  },
+  {
+    "title": "SankeyMATIC: A Sankey diagram builder for everyone",
+    "url": "https://sankeymatic.com/"
+  },
+  {
+    "title": "The Perils of Audience Capture",
+    "url": "https://gurwinder.substack.com/p/the-perils-of-audience-capture"
+  },
+  {
+    "title": "Mathematics and Magic: the de Bruijn Card Trick | The n-Category Caf\u00e9",
+    "url": "https://golem.ph.utexas.edu/category/2015/01/mathematics_and_magic_the_de_b.html"
+  },
+  {
+    "title": "Status as a Service (StaaS) -- Remains of the Day",
+    "url": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
+  },
+  {
+    "title": "Brag Doc: Why and How?",
+    "url": "https://janahansivaraman.com/blog/brag-doc/"
+  },
+  {
+    "title": "Things You Should Know About Databases",
+    "url": "https://architecturenotes.co/things-you-should-know-about-databases/"
+  },
+  {
+    "title": "Legendre transform",
+    "url": "https://blog.jessriedel.com/2017/06/28/legendre-transform/"
+  },
+  {
+    "title": "Line wrap and word wrap - Wikipedia",
+    "url": "https://en.m.wikipedia.org/wiki/Line_wrap_and_word_wrap"
+  },
+  {
+    "title": "What You Can't Say",
+    "url": "http://paulgraham.com/say.html"
+  },
+  {
+    "title": "Attempting to create an aesthetic global line breaking algorithm",
+    "url": "https://nibblestew.blogspot.com/2022/06/attempting-to-create-aesthetic-global.html?m=1"
+  },
+  {
+    "title": "Pontryagin's maximum principle - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle"
+  },
+  {
+    "title": "4 macOS Screenshot Tricks To Impress Your Co-Workers",
+    "url": "https://sal.dev/macos/macos-screenshotting-tips-and-tricks/"
+  },
+  {
+    "title": "Poincar\u00e9 Embeddings for Learning Hierarchical Representations",
+    "url": "https://arxiv.org/abs/1705.08039"
+  },
+  {
+    "title": "Why We Will Never Have Enough Software Developers",
+    "url": "https://whoisnnamdi.com/never-enough-developers/"
+  },
+  {
+    "title": "Blog posts",
+    "url": "https://yorkerlin.github.io/year-archive/"
+  },
+  {
+    "title": "DeepETA: How Uber Predicts Arrival Times Using Deep Learning",
+    "url": "https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"
+  },
+  {
+    "title": "You need to know what right-half-plane zeros are",
+    "url": "https://jbconsulting.substack.com/p/you-need-to-know-what-right-half?s=r"
+  },
+  {
+    "title": "Operating well - what I learned at Stripe",
+    "url": "https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at?sd=pf&s=r"
+  },
+  {
+    "title": "Unlearning Labs - How do we prioritize consistency in learning over intensity?",
+    "url": "https://t.co/mGkKSiHE5w?ssr=true"
+  },
+  {
+    "title": "How to pick the least wrong colors",
+    "url": "https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/"
+  },
+  {
+    "title": "Is There Such a Thing as Good Taste?",
+    "url": "http://paulgraham.com/goodtaste.html"
+  },
+  {
+    "title": "Theory of constraints - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Theory_of_constraints"
+  },
+  {
+    "title": "Icicle-Shaped People",
+    "url": "https://medium.com/@daverooneyca/icicle-shaped-people-45f3640dd329"
+  },
+  {
+    "title": "Model Size Reduction Using Frequency Based Double Hashing for...",
+    "url": "https://arxiv.org/abs/2007.14523"
+  },
+  {
+    "title": "Hemingway Editor",
+    "url": "https://hemingwayapp.com/"
+  },
+  {
+    "title": "How To Achieve Ultimate Blog Success In One Easy Step",
+    "url": "https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/"
+  },
+  {
+    "title": "How I Motivate Myself to Write",
+    "url": "https://blog.pragmaticengineer.com/writing-motivation/"
+  },
+  {
+    "title": "Lecture I: Introduction to Mimetic Theory | Ren\u00e9 Girard's Mimetic Theory",
+    "url": "https://youtube.com/watch?v=5Qu6vBebwwg&feature=share"
+  },
+  {
+    "title": "Scaling Yourself \u2022 Scott Hanselman \u2022 GOTO 2012",
+    "url": "https://m.youtube.com/watch?v=FS1mnISoG7U&feature=youtu.be"
+  },
+  {
+    "title": "Strategizing Your Multimillion-Dollar Retirement Plan | Ryan Valles | IK UpLevel MicroClass",
+    "url": "https://m.youtube.com/watch?v=2_Hr-lqFAq0&feature=youtu.be"
+  },
+  {
+    "title": "Technical leadership and glue work - Tanya Reilly | #LeadDevNewYork",
+    "url": "https://m.youtube.com/watch?v=KClAPipnKqw&feature=youtu.be"
+  },
+  {
+    "title": "The Tools I Use To Write Books",
+    "url": "https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/"
+  },
+  {
+    "title": "Why I no longer recommend Julia",
+    "url": "https://yuri.is/not-julia/"
+  },
+  {
+    "title": "How social learning amplifies moral outrage expression in online social networks",
+    "url": "https://www.science.org/doi/10.1126/sciadv.abe5641"
+  },
+  {
+    "title": "2110",
+    "url": "https://arxiv.org/pdf/2110.07732.pdf"
+  },
+  {
+    "title": "Why I left Google: work-life balance / Scott Kennedy",
+    "url": "https://www.scottkennedy.us/balance.html"
+  },
+  {
+    "title": "Probability models",
+    "url": "https://ermongroup.github.io/cs228-notes/preliminaries/introduction/"
+  },
+  {
+    "title": "Best fan placement to move air through the house - YouTube",
+    "url": "https://m.youtube.com/watch?v=1L2ef1CP-yw"
+  },
+  {
+    "title": "Facebook Book",
+    "url": "https://v1.benbarry.com/project/facebooks-book"
+  },
+  {
+    "title": "Facebooks little red book office of ben barry",
+    "url": "https://facebookcollection.files.wordpress.com/2018/10/facebooks-little-red-book-office-of-ben-barry.pdf"
+  },
+  {
+    "title": "Understanding einsum for Deep learning: implement a transformer with multi-head self-attention from scratch | AI Summer",
+    "url": "https://theaisummer.com/einsum-attention/"
+  },
+  {
+    "title": "How to Succeed as a CTO, Part 1",
+    "url": "https://blog.southparkcommons.com/how-to-succeed-as-a-cto-part-1/"
+  },
+  {
+    "title": "Logbook: metaseq/projects/OPT/chronicles at main \u00b7 facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT/chronicles"
+  },
+  {
+    "title": "Chris's Wiki :: blog/web/PlainHTMLAppeal",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/PlainHTMLAppeal"
+  },
+  {
+    "title": "Reflecting on one very, very strange year at Uber -- Susan Fowler",
+    "url": "https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber"
+  },
+  {
+    "title": "Suspicious discontinuities",
+    "url": "https://danluu.com/discontinuities/"
+  },
+  {
+    "title": "Markets, discrimination, and \"lowering the bar\"",
+    "url": "https://danluu.com/tech-discrimination/"
+  },
+  {
+    "title": "Changing std::sort at Google's Scale and Beyond",
+    "url": "https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/"
+  },
+  {
+    "title": "95%-ile isn't that good",
+    "url": "https://danluu.com/p95-skill/"
+  },
+  {
+    "title": "Founding Uber SRE.",
+    "url": "https://lethain.com/founding-uber-sre/"
+  },
+  {
+    "title": "Talk Like A Systems Engineer: Yaks All The Way Down",
+    "url": "https://flameeyes.blog/2022/04/26/engineering-jargon-yaks/"
+  },
+  {
+    "title": "Back to the Future of Twitter",
+    "url": "https://stratechery.com/2022/back-to-the-future-of-twitter/"
+  },
+  {
+    "title": "Tools for a Culture of Writing",
+    "url": "https://matt.blwt.io/post/tools-for-a-culture-of-writing/"
+  },
+  {
+    "title": "A Map of the Territory \u00b7 Crafting Interpreters",
+    "url": "https://craftinginterpreters.com/a-map-of-the-territory.html"
+  },
+  {
+    "title": "The Curse of Systems Thinkers (Part 1)",
+    "url": "https://blog.relyabilit.ie/the-curse-of-systems-thinkers/"
+  },
+  {
+    "title": "Questions VCs Will Ask You",
+    "url": "http://blog.eladgil.com/2011/03/questions-vcs-will-ask-you.html?m=1"
+  },
+  {
+    "title": "The 7 types of angel investors - what is right for your startup?",
+    "url": "http://blog.eladgil.com/2010/03/7-types-of-angel-investors-what-is.html?m=1"
+  },
+  {
+    "title": "This is Water by David Foster Wallace (Full Transcript and Audio) - Farnam Street",
+    "url": "https://fs.blog/david-foster-wallace-this-is-water/"
+  },
+  {
+    "title": "How to be perfectly unhappy",
+    "url": "https://theoatmeal.com/comics/unhappy"
+  },
+  {
+    "title": "PaLM: Scaling Language Modeling with Pathways",
+    "url": "https://arxiv.org/abs/2204.02311"
+  },
+  {
+    "title": "What are Diffusion Models?",
+    "url": "https://lilianweng.github.io/posts/2021-07-11-diffusion-models/"
+  },
+  {
+    "title": "We Need Someone Who Has Done \"It\" Before",
+    "url": "https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=w"
+  },
+  {
+    "title": "Facebook ML engineer interview: the only post you'll need to read",
+    "url": "https://igotanoffer.com/blogs/tech/facebook-machine-learning-engineer-interview"
+  },
+  {
+    "title": "System Design for Recommendations and Search",
+    "url": "https://eugeneyan.com/writing/system-design-for-discovery/"
+  },
+  {
+    "title": "Exploration versus Exploitation: Deciding When to Get Married",
+    "url": "https://www.inference.vc/my_big_fat_data_driven_wedding_how_to_decide_when_to_get_married/"
+  },
+  {
+    "title": "Is Maximum Likelihood Useful for Representation Learning?",
+    "url": "https://www.inference.vc/maximum-likelihood-for-representation-learning-2/"
+  },
+  {
+    "title": "A Cookbook for Machine Learning: Vol 1",
+    "url": "https://www.inference.vc/design-patterns/"
+  },
+  {
+    "title": "Online Bayesian Deep Learning in Production at Tencent",
+    "url": "https://www.inference.vc/online-bayesian-deep-learning-in-production-at-tencent/"
+  },
+  {
+    "title": "The humble hash aggregate",
+    "url": "https://vickiboykis.com/2021/06/06/the-humble-hash-aggregate/"
+  },
+  {
+    "title": "facebook process kent beck",
+    "url": "https://softwareengineeringdaily.com/wp-content/uploads/2019/08/SEDFB15-Facebook-Process-Kent-Beck.pdf"
+  },
+  {
+    "title": "Papers & tech blogs for rec systems",
+    "url": "https://github.com/eugeneyan/applied-ml#recommendation"
+  },
+  {
+    "title": "Real World Recommendation System - Part 1",
+    "url": "https://blog.fennel.ai/p/real-world-recommendation-system?s=w"
+  },
+  {
+    "title": "Bit Twiddling Hacks",
+    "url": "https://graphics.stanford.edu/~seander/bithacks.html"
+  },
+  {
+    "title": "Heresy",
+    "url": "http://paulgraham.com/heresy.html"
+  },
+  {
+    "title": "The Fatal Pinch",
+    "url": "http://www.paulgraham.com/pinch.html"
+  },
+  {
+    "title": "MLE, MAP and Bayesian Inference",
+    "url": "https://towardsdatascience.com/mle-map-and-bayesian-inference-3407b2d6d4d9"
+  },
+  {
+    "title": "Thoughts on Writing",
+    "url": "http://jerobison.blogspot.com/2022/03/thoughts-on-writing.html"
+  },
+  {
+    "title": "#42: Are you nice or kind?",
+    "url": "https://haleynahman.substack.com/p/42-are-you-nice-or-kind?s=r"
+  },
+  {
+    "title": "What I learned as a hired consultant for autodidact physicists | Aeon Ideas",
+    "url": "https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists"
+  },
+  {
+    "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2201.11903"
+  },
+  {
+    "title": "Pathways Language Model (PaLM): Scaling to 540 Billion Parameters for Breakthrough Performance",
+    "url": "https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html?m=1"
+  },
+  {
+    "title": "How to Build a Strong Career in Tech: A Thread | Thiago Ghisi",
+    "url": "https://t.co/NthSDtkHcR?ssr=true"
+  },
+  {
+    "title": "The Combined Engineering Software Model",
+    "url": "https://t.co/DLnFRj4TH9?ssr=true"
+  },
+  {
+    "title": "Test Mercenaries - Mike Bland",
+    "url": "https://t.co/EC6RyllaOq?ssr=true"
+  },
+  {
+    "title": "Hard to work with.",
+    "url": "https://lethain.com/hard-to-work-with/"
+  },
+  {
+    "title": "Don't ask if a monorepo is good for you - ask if you're good enough for a monorepo",
+    "url": "http://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html"
+  },
+  {
+    "title": "Normalization of deviance",
+    "url": "http://danluu.com/wat/"
+  },
+  {
+    "title": "People can read their manager's mind",
+    "url": "https://yosefk.com/blog/people-can-read-their-managers-mind.html"
+  },
+  {
+    "title": "The counter-intuitive rise of Python in scientific computing",
+    "url": "https://cerfacs.fr/coop/fortran-vs-python"
+  },
+  {
+    "title": "Senior Engineer Jobsearch",
+    "url": "https://www.jobsearch.dev/"
+  },
+  {
+    "title": "know how your org works (or how to become a more effective engineer)",
+    "url": "https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d"
+  },
+  {
+    "title": "Search xkcd comics | Catche",
+    "url": "https://catche.co/xkcd"
+  },
+  {
+    "title": "Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/\u2705 \ud83d\ude43 Pattern 09: Two Heaps.md at main \u00b7 Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews",
+    "url": "https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews/blob/main/%E2%9C%85%20%F0%9F%99%83%20Pattern%2009:%20Two%20Heaps.md"
+  },
+  {
+    "title": "The Hiring Post",
+    "url": "https://sockpuppet.org/blog/2015/03/06/the-hiring-post/"
+  },
+  {
+    "title": "Algorithms interviews: theory vs. practice",
+    "url": "https://danluu.com/algorithms-interviews/"
+  },
+  {
+    "title": "Learning with not Enough Data Part 1: Semi-Supervised Learning",
+    "url": "https://lilianweng.github.io/posts/2021-12-05-semi-supervised/"
+  },
+  {
+    "title": "Generative Flow Networks - Yoshua Bengio",
+    "url": "https://yoshuabengio.org/2022/03/05/generative-flow-networks/"
+  },
+  {
+    "title": "dhash LSH for images",
+    "url": "http://www.hackerfactor.com/blog/index.php?/archives/529-Kind-of-Like-That.html"
+  },
+  {
+    "title": "Find Similar Images Based On Locality Sensitive Hashing | Westworld",
+    "url": "https://lkaihua.github.io/posts/find-similar-images-based-on-locality-sensitive-hashing/"
+  },
+  {
+    "title": "Case studies: Machine Learning Systems Design",
+    "url": "https://huyenchip.com/machine-learning-systems-design/case-studies.html#case-studies-bYrWS80"
+  },
+  {
+    "title": "Application deployment and testing strategies | Cloud Architecture Center",
+    "url": "https://cloud.google.com/architecture/application-deployment-and-testing-strategies"
+  },
+  {
+    "title": "CS 329S: Machine Learning Systems Design",
+    "url": "https://stanford-cs329s.github.io/syllabus.html"
+  },
+  {
+    "title": "Installing Python Packages from a Jupyter Notebook | Pythonic Perambulations",
+    "url": "https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/"
+  },
+  {
+    "title": "Misidentifying talent",
+    "url": "https://danluu.com/talent/"
+  },
+  {
+    "title": "Belonging to Amazon's Principal Engineering Community",
+    "url": "https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf"
+  },
+  {
+    "title": "Introduction | Recommendation Systems",
+    "url": "https://developers.google.com/machine-learning/recommendation"
+  },
+  {
+    "title": "Machine Learning for Snapchat Ad Ranking",
+    "url": "https://eng.snap.com/machine-learning-snap-ad-ranking"
+  },
+  {
+    "title": "As an autistic jobseeker, please stop perpetuating neurotypical standards of professionalism.",
+    "url": "https://www.linkedin.com/pulse/autistic-jobseeker-please-stop-perpetuating-nesceda-blake"
+  },
+  {
+    "title": "Shiva's 112 Ways to Attain Enlightenment - Yogi Tonics",
+    "url": "https://yogitonics.com/shivas-112-ways-to-attain-enlightenment/"
+  },
+  {
+    "title": "The simple system I'm using to stay in touch with hundreds of people",
+    "url": "https://jakobgreenfeld.com/stay-in-touch"
+  },
+  {
+    "title": "Failure Theory",
+    "url": "https://boz.com/articles/failure-theory"
+  },
+  {
+    "title": "Second Order Anxiety",
+    "url": "https://boz.com/articles/second-order-anxiety"
+  },
+  {
+    "title": "bliki: StranglerFigApplication",
+    "url": "https://martinfowler.com/bliki/StranglerFigApplication.html"
+  },
+  {
+    "title": "A compilation of misuses of statistics",
+    "url": "https://youneskamel.substack.com/p/a-compilation-of-misuses-of-statistics"
+  },
+  {
+    "title": "Executive",
+    "url": "https://boz.com/articles/executive"
+  },
+  {
+    "title": "The Last Bus Problem",
+    "url": "https://boz.com/articles/bus-problem"
+  },
+  {
+    "title": "Shreyas Doshi on Twitter",
+    "url": "https://twitter.com/shreyas/status/1492348604115140615?s=12"
+  },
+  {
+    "title": "Uses This / Categories",
+    "url": "https://usesthis.com/categories/"
+  },
+  {
+    "title": "A decade of major cache incidents at Twitter",
+    "url": "https://danluu.com/cache-incidents/"
+  },
+  {
+    "title": "The Plausibly Deniable DataBase (PDDB) \u00ab bunnie's blog",
+    "url": "https://www.bunniestudios.com/blog/?p=6307"
+  },
+  {
+    "title": "The Law of Leaky Abstractions",
+    "url": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/"
+  },
+  {
+    "title": "Generalizing Specialists: Improving Your Effectiveness",
+    "url": "http://agilemodeling.com/essays/generalizingSpecialists.htm"
+  },
+  {
+    "title": "Download",
+    "url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.499.9652&rep=rep1&type=pdf"
+  },
+  {
+    "title": "Things You Should Never Do, Part I",
+    "url": "https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/"
+  },
+  {
+    "title": "Dark Scrum",
+    "url": "https://ronjeffries.com/articles/016-09ff/defense/"
+  },
+  {
+    "title": "On finding the average of two unsigned integers without overflow - The Old New Thing",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"
+  },
+  {
+    "title": "The Two Types of Behavioral Interview Questions",
+    "url": "https://www.linkedin.com/pulse/two-types-behavioral-interview-questions-thiago-ghisi"
+  },
+  {
+    "title": "Rich Programmer Food",
+    "url": "http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html?m=1"
+  },
+  {
+    "title": "The Four Innovation Phases of Netflix's Trillions Scale Real-time Data Infrastructure",
+    "url": "https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01"
+  },
+  {
+    "title": "Skin Types, Proclivities, and Conditions: Knowing Your Skin for More Effective and Less Frustrating Skincare",
+    "url": "https://theacidqueenblog.com/2016/06/23/skin-types-proclivities-and-conditions/"
+  },
+  {
+    "title": "Blog",
+    "url": "https://huyenchip.com/blog/"
+  },
+  {
+    "title": "Dan Luu on Twitter",
+    "url": "https://twitter.com/danluu/status/1487228574608211969?s=12"
+  },
+  {
+    "title": "The Observer Effect - Tobi L\u00fctke",
+    "url": "https://www.theobservereffect.org/tobi.html"
+  },
+  {
+    "title": "17 Reasons NOT To Be A Manager",
+    "url": "https://t.co/KAb1z7OU2p?ssr=true"
+  },
+  {
+    "title": "On Engineers and Influence",
+    "url": "https://charity.wtf/2018/08/17/on-engineers-and-influence/"
+  },
+  {
+    "title": "Soft Skills Engineering",
+    "url": "https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=PRDs8tNKQ5WE1_FlsD-4rg"
+  },
+  {
+    "title": "Companies Rarely Grow Into Their Valuations",
+    "url": "https://whoisnnamdi.com/grow-valuation/"
+  },
+  {
+    "title": "On Leaving Facebook",
+    "url": "https://frantic.im/leaving-facebook/"
+  },
+  {
+    "title": "Becoming a Better Writer in Tech",
+    "url": "https://t.co/8RGz56N8oz?ssr=true"
+  },
+  {
+    "title": "Getting Started \u2022 Zettelkasten Method",
+    "url": "https://zettelkasten.de/posts/overview/"
+  },
+  {
+    "title": "Interlude for Behavioral Economics - LessWrong",
+    "url": "https://www.lesswrong.com/lw/dgc/interlude_for_behavioral_economics/"
+  },
+  {
+    "title": "Introduction to Prisoners' Dilemma - LessWrong",
+    "url": "https://www.lesswrong.com/lw/dd3/introduction_to_prisoners_dilemma/"
+  },
+  {
+    "title": "Backward Reasoning Over Decision Trees - LessWrong",
+    "url": "https://www.lesswrong.com/lw/dbj/backward_reasoning_over_decision_trees/"
+  },
+  {
+    "title": "Nash Equilibria and Schelling Points - LessWrong",
+    "url": "https://www.lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/"
+  },
+  {
+    "title": "Introduction to Game Theory: Sequence Guide - LessWrong",
+    "url": "https://www.lesswrong.com/posts/QxZs5Za4qXBegXCgu/introduction-to-game-theory-sequence-guide"
+  },
+  {
+    "title": "Web3 | No Mercy / No Malice",
+    "url": "https://www.profgalloway.com/web3/"
+  },
+  {
+    "title": "Know your \u201cOne Job\u201d and do it first",
+    "url": "https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/"
+  },
+  {
+    "title": "Near-Far Summary",
+    "url": "http://www.overcomingbias.com/2010/06/near-far-summary.html"
+  },
+  {
+    "title": "Common Knowledge and Aumann's Agreement Theorem",
+    "url": "http://www.scottaaronson.com/blog/?p=2410"
+  },
+  {
+    "title": "Evolution of search engines architecture - Algolia New Search Architecture Part 1 - High Scalability",
+    "url": "http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html"
+  },
+  {
+    "title": "The Gervais Principle, Or The Office According to \u201cThe Office\u201d",
+    "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/"
+  },
+  {
+    "title": "The Bus Ticket Theory of Genius",
+    "url": "http://www.paulgraham.com/genius.html"
+  },
+  {
+    "title": "The Art of the Conspiracy Theory",
+    "url": "http://www.ribbonfarm.com/2016/10/06/the-art-of-the-conspiracy-theory/"
+  },
+  {
+    "title": "Are Beliefs Like Clothes?",
+    "url": "http://mason.gmu.edu/~rhanson/belieflikeclothes.html"
+  },
+  {
+    "title": "Sequences - LessWrong",
+    "url": "https://wiki.lesswrong.com/wiki/Sequences"
+  },
+  {
+    "title": "Why Everyone (Else) Is a Hypocrite: Evolution and the Modular Mind",
+    "url": "https://www.amazon.com/Why-Everyone-Else-Hypocrite-Evolution/dp/0691154392"
+  },
+  {
+    "title": "The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life",
+    "url": "https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970"
+  },
+  {
+    "title": "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
+    "url": "https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777"
+  },
+  {
+    "title": "The Strategy of Conflict: With a New Preface by the Author",
+    "url": "https://www.amazon.com/Strategy-Conflict-Thomas-C-Schelling/dp/0674840313"
+  },
+  {
+    "title": "You and Your Research",
+    "url": "http://www.cs.virginia.edu/~robins/YouAndYourResearch.html"
+  },
+  {
+    "title": "Intellectual compounding by Sizhao Yang on Twitter",
+    "url": "https://twitter.com/zaoyang/status/940409514875961344"
+  },
+  {
+    "title": "Lazy Leadership: Why I rarely go to the office, only see my team a couple times a week, and let other people make important decisions",
+    "url": "https://www.linkedin.com/pulse/lazy-leadership-why-i-rarely-go-office-only-see-my-team-wilkinson/"
+  },
+  {
+    "title": "Defining Aggregators",
+    "url": "https://stratechery.com/2017/defining-aggregators/"
+  },
+  {
+    "title": "Crony Beliefs",
+    "url": "https://meltingasphalt.com/crony-beliefs/"
+  },
+  {
+    "title": "The Munger Operating System: A Life That Works",
+    "url": "https://fs.blog/2016/04/munger-operating-system/"
+  },
+  {
+    "title": "Career Decisions",
+    "url": "http://blog.eladgil.com/2015/03/career-decisions.html"
+  },
+  {
+    "title": "GitHub - raphaelsty/cherche: Neural search",
+    "url": "https://github.com/raphaelsty/cherche"
+  },
+  {
+    "title": "GitHub - chiphuyen/machine-learning-systems-design: A booklet on machine learning systems design with exercises",
+    "url": "https://github.com/chiphuyen/machine-learning-systems-design"
+  },
+  {
+    "title": "Introduction to Machine Learning Interviews Book \u00b7 MLIB",
+    "url": "https://huyenchip.com/ml-interviews-book/"
+  },
+  {
+    "title": "How i got a job at deepmind as a research engineer without a machine learning degree 1a45f2a781de",
+    "url": "https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de"
+  },
+  {
+    "title": "CMU Advanced NLP 2021",
+    "url": "https://www.youtube.com/playlist?app=desktop&list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6"
+  },
+  {
+    "title": "The complete guide to system design in 2022",
+    "url": "https://www.educative.io/blog/complete-guide-to-system-design?utm_campaign=Topic%20Focus&utm_medium=email&_hsmi=200171263&_hsenc=p2ANqtz-_jVlz9_gKl-9lBYFMh5PLoGZ43aLpJgk0jk4GqizmoNs6xZNJg7B-Qw2aV0g9D9W0LCKXW47sayYTRMy--jYHEEg0nsMSxJopJf5aqOhDIVNym-Jc&utm_content=200171605&utm_source=hs_email"
+  },
+  {
+    "title": "Preparing for the Systems Design and Coding Interview",
+    "url": "https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/"
+  },
+  {
+    "title": "Principal-agent problem - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem"
+  },
+  {
+    "title": "Login - SketchTogether",
+    "url": "https://app.sketchtogether.com/login/login.html?redirect=%2Fs%2F"
+  },
+  {
+    "title": "GitHub - uber/RIBs: Uber's cross-platform mobile architecture framework.",
+    "url": "https://github.com/uber/RIBs"
+  },
+  {
+    "title": "Uber's Crazy YOLO App Rewrite, From the Front Seat",
+    "url": "https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/"
+  },
+  {
+    "title": "The Day You Became A Better Writer",
+    "url": "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html"
+  },
+  {
+    "title": "Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)",
+    "url": "https://fs.blog/mental-models/"
+  },
+  {
+    "title": "NAVAL'S WRITING",
+    "url": "https://www.navalmanack.com/almanack-of-naval-ravikant/navals-writing"
+  },
+  {
+    "title": "You've Been Sold a Massive Lie About Willpower",
+    "url": "https://medium.com/mind-cafe/youve-been-sold-a-massive-lie-about-willpower-2874ba2893c4"
+  }
 ]
