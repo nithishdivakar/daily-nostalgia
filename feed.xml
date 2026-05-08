@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0"><channel>
-  <title>Daily Nostalgia</title>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Nostalgia Feed</title>
+  <link>https://github.com/nithishdivakar/daily-nostalgia</link>
+  <description>Daily random articles from my archives</description>
+  <language>en-us</language>
+  <lastBuildDate>Fri, 08 May 2026 03:22:51 GMT</lastBuildDate>
   
     <item>
-      <title>My First BillG Review</title>
+      <title>My First BillG Review (May 08, 2026)</title>
       <link>https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/</link>
-      <guid>https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/-2026-05-08</guid>
+      <guid isPermaLink="false">https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/-2026-05-08</guid>
+      <pubDate>Fri, 08 May 2026 03:22:51 GMT</pubDate>
+      <description>Resurfaced from your archives on May 08, 2026.</description>
     </item>
     <item>
-      <title>Jobsearch.dev</title>
+      <title>Jobsearch.dev (May 08, 2026)</title>
       <link>https://www.jobsearch.dev/</link>
-      <guid>https://www.jobsearch.dev/-2026-05-08</guid>
+      <guid isPermaLink="false">https://www.jobsearch.dev/-2026-05-08</guid>
+      <pubDate>Fri, 08 May 2026 03:22:51 GMT</pubDate>
+      <description>Resurfaced from your archives on May 08, 2026.</description>
     </item>
     <item>
-      <title>David Foster Wallace: This Is Water</title>
+      <title>David Foster Wallace: This Is Water (May 08, 2026)</title>
       <link>https://fs.blog/david-foster-wallace-this-is-water/</link>
-      <guid>https://fs.blog/david-foster-wallace-this-is-water/-2026-05-08</guid>
+      <guid isPermaLink="false">https://fs.blog/david-foster-wallace-this-is-water/-2026-05-08</guid>
+      <pubDate>Fri, 08 May 2026 03:22:51 GMT</pubDate>
+      <description>Resurfaced from your archives on May 08, 2026.</description>
     </item>
-</channel></rss>
+</channel>
+</rss>
