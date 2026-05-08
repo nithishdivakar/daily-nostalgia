@@ -1,0 +1,20 @@
+name: Update Daily Feed
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate XML
+        run: python generate_feed.py
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "action@github.com"
+          git add feed.xml
+          git commit -m "Update daily nostalgia picks" || exit 0
+          git push
