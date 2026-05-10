@@ -44,7 +44,7 @@ def generate_rss():
         url = item.get('url', '#')
         
         # We append the date to the title so it looks fresh in your reader
-        display_title = f"{title} ({date_display})"
+        display_title = f"{title}"
         
         # We use url + date for the GUID so the same article 
         # is treated as "new" if it reappears months later.
