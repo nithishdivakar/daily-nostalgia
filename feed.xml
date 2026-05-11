@@ -5,126 +5,126 @@
   <link>https://github.com/nithishdivakar/daily-nostalgia</link>
   <description>Daily random articles from my archives</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 10 May 2026 02:31:18 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 02:40:37 GMT</lastBuildDate>
   
     <item>
-      <title>The Righteous Mind (May 10, 2026)</title>
-      <link>https://righteousmind.com/</link>
-      <guid isPermaLink="false">https://righteousmind.com/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Chain of Thought Prompting Elicits Reasoning in Large Language Models</title>
+      <link>https://arxiv.org/abs/2201.11903</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2201.11903-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>The Bittersweet Lesson (May 10, 2026)</title>
-      <link>https://medium.com/@felixhill/the-agreeable-lesson-9766382c6d83#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg5Y2UzNTk4YzQ3M2FmMWJkYTRiZmY5NWU2Yzg3MzY0NTAyMDZmYmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTMzNzA0MjYxOTkyMjI0Mjk4NzMiLCJlbWFpbCI6ImEuYnVjay5hbi5lYXJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTczNTk1ODkzMywibmFtZSI6IlN0ZXBoYW5pZSBDaGFuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0plWjZnV0FJQTVNUW1XRzY5NVNUZXhCNlQ5d1FzTzFwcEpNb1d4Q19aWDM3N3lWZktPPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlN0ZXBoYW5pZSIsImZhbWlseV9uYW1lIjoiQ2hhbiIsImlhdCI6MTczNTk1OTIzMywiZXhwIjoxNzM1OTYyODMzLCJqdGkiOiJlZmJlNmUwYzhhMjg5NmY4NDcxMTU2MDI4MjRlYzE3NDVjYzhlMDQzIn0.pOWWaY5QCVvuXBRbVl5guIQ1xEvkiQ5Z8cpf_uBh7lZPJnfj_cSC1TKsZQhM2t3S1EFQ5GvWeMUbnVYy6_wnHI54Iy--mGU8TKbDZqcUaa6Qsfw7pLciLGwsB32-r49hUOSoyGt2E9zD7WozTqKQYUushMVg-C9iakZm3Gzt5edBXSjgeDg2zQytDRVmtf8rb4VzZ7Zkj8x-NZoNTzJzxvUvCS29TSoEOj3MMyp1wMfRCLXt2Xf-Wr_ziO7eFTHMJIHhtUinzuuaCyFOQFBNJx6WWsPi3vW19Q6ZOweQLld_o7NyOyHuEgHFUxypDn64uFvRNDVO-l2Bc7gpMNkdQA</link>
-      <guid isPermaLink="false">https://medium.com/@felixhill/the-agreeable-lesson-9766382c6d83#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg5Y2UzNTk4YzQ3M2FmMWJkYTRiZmY5NWU2Yzg3MzY0NTAyMDZmYmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTMzNzA0MjYxOTkyMjI0Mjk4NzMiLCJlbWFpbCI6ImEuYnVjay5hbi5lYXJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5iZiI6MTczNTk1ODkzMywibmFtZSI6IlN0ZXBoYW5pZSBDaGFuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0plWjZnV0FJQTVNUW1XRzY5NVNUZXhCNlQ5d1FzTzFwcEpNb1d4Q19aWDM3N3lWZktPPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlN0ZXBoYW5pZSIsImZhbWlseV9uYW1lIjoiQ2hhbiIsImlhdCI6MTczNTk1OTIzMywiZXhwIjoxNzM1OTYyODMzLCJqdGkiOiJlZmJlNmUwYzhhMjg5NmY4NDcxMTU2MDI4MjRlYzE3NDVjYzhlMDQzIn0.pOWWaY5QCVvuXBRbVl5guIQ1xEvkiQ5Z8cpf_uBh7lZPJnfj_cSC1TKsZQhM2t3S1EFQ5GvWeMUbnVYy6_wnHI54Iy--mGU8TKbDZqcUaa6Qsfw7pLciLGwsB32-r49hUOSoyGt2E9zD7WozTqKQYUushMVg-C9iakZm3Gzt5edBXSjgeDg2zQytDRVmtf8rb4VzZ7Zkj8x-NZoNTzJzxvUvCS29TSoEOj3MMyp1wMfRCLXt2Xf-Wr_ziO7eFTHMJIHhtUinzuuaCyFOQFBNJx6WWsPi3vW19Q6ZOweQLld_o7NyOyHuEgHFUxypDn64uFvRNDVO-l2Bc7gpMNkdQA-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>The Uncertain Mind: How the Brain Handles the Unknown</title>
+      <link>https://nesslabs.com/uncertain-mind?utm_source=rss&utm_medium=rss&utm_campaign=uncertain-mind</link>
+      <guid isPermaLink="false">https://nesslabs.com/uncertain-mind?utm_source=rss&utm_medium=rss&utm_campaign=uncertain-mind-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>GitHub - Siwoo4985/Micro-Diffusion: The essence of text diffusion in ~150 lines of pure Python. Inspired by Karpathy's MicroGPT. (May 10, 2026)</title>
-      <link>https://github.com/Siwoo4985/Micro-Diffusion</link>
-      <guid isPermaLink="false">https://github.com/Siwoo4985/Micro-Diffusion-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Skill Shapes</title>
+      <link>https://www.goodtechthings.com/skill-shapes/</link>
+      <guid isPermaLink="false">https://www.goodtechthings.com/skill-shapes/-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>The Mathematician's Weapon | An Introduction to Category Theory, Abstraction and Algebra | #SoME3 (May 10, 2026)</title>
-      <link>https://youtu.be/FQYOpD7tv30</link>
-      <guid isPermaLink="false">https://youtu.be/FQYOpD7tv30-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Seven Habits that Shaped My Last Decade</title>
+      <link>https://eugeneyan.com/writing/seven-habits-that-shaped-my-decade/</link>
+      <guid isPermaLink="false">https://eugeneyan.com/writing/seven-habits-that-shaped-my-decade/-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Sutton JAGI (May 10, 2026)</title>
-      <link>http://www.incompleteideas.net/papers/Sutton-JAGI-2020.pdf</link>
-      <guid isPermaLink="false">http://www.incompleteideas.net/papers/Sutton-JAGI-2020.pdf-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Mental health impacts of a Big Tech job</title>
+      <link>https://oilyraincloud.com/2021/08/16/mental-health-impacts-of-a-big-tech-job/</link>
+      <guid isPermaLink="false">https://oilyraincloud.com/2021/08/16/mental-health-impacts-of-a-big-tech-job/-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Welcome to the Room (May 10, 2026)</title>
-      <link>https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/</link>
-      <guid isPermaLink="false">https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Kafka's Remarkable Letter to His Abusive and Narcissistic Father</title>
+      <link>https://www.themarginalian.org/2015/03/05/franz-kafka-letter-father/</link>
+      <guid isPermaLink="false">https://www.themarginalian.org/2015/03/05/franz-kafka-letter-father/-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>The 99% principle for personal problems (May 10, 2026)</title>
-      <link>https://kajsotala.fi/2023/10/the-99-principle-for-personal-problems/</link>
-      <guid isPermaLink="false">https://kajsotala.fi/2023/10/the-99-principle-for-personal-problems/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Marco Zocca - Minimum bipartite matching via Riemann optimization</title>
+      <link>https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html</link>
+      <guid isPermaLink="false">https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Knightmare: A DevOps Cautionary Tale (May 10, 2026)</title>
-      <link>https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/</link>
-      <guid isPermaLink="false">https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>How The Economic Machine Works by Ray Dalio - YouTube</title>
+      <link>https://m.youtube.com/watch?v=PHe0bXAIuk0</link>
+      <guid isPermaLink="false">https://m.youtube.com/watch?v=PHe0bXAIuk0-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Work Is Work (May 10, 2026)</title>
-      <link>https://codahale.com//work-is-work/</link>
-      <guid isPermaLink="false">https://codahale.com//work-is-work/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>how to become gently interesting</title>
+      <link>https://lananhngvu.substack.com/p/how-to-become-gently-interesting</link>
+      <guid isPermaLink="false">https://lananhngvu.substack.com/p/how-to-become-gently-interesting-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Nash Equilibria and Schelling Points - LessWrong (May 10, 2026)</title>
-      <link>https://www.lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/</link>
-      <guid isPermaLink="false">https://www.lesswrong.com/lw/dc7/nash_equilibria_and_schelling_points/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>The Bean Protocol™, explained: Conversation with Unique Hammond</title>
+      <link>https://primarybeans.com/blogs/cooking-nutrition/the-bean-protocol-explained-conversation-with-unique-hammond?srsltid=AfmBOorqcSMlJtqRgrOn3gca1HzuVOX5Y-IiMOMYKMQQo_qa-aXkRU9S</link>
+      <guid isPermaLink="false">https://primarybeans.com/blogs/cooking-nutrition/the-bean-protocol-explained-conversation-with-unique-hammond?srsltid=AfmBOorqcSMlJtqRgrOn3gca1HzuVOX5Y-IiMOMYKMQQo_qa-aXkRU9S-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Calendar.txt (May 10, 2026)</title>
-      <link>https://terokarvinen.com/2021/calendar-txt/</link>
-      <guid isPermaLink="false">https://terokarvinen.com/2021/calendar-txt/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Augmenting Long-term Memory</title>
+      <link>https://augmentingcognition.com/ltm.html</link>
+      <guid isPermaLink="false">https://augmentingcognition.com/ltm.html-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Dan Luu on Twitter (May 10, 2026)</title>
-      <link>https://twitter.com/danluu/status/1487228574608211969?s=12</link>
-      <guid isPermaLink="false">https://twitter.com/danluu/status/1487228574608211969?s=12-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>How to seem good at everything: Stop doing stupid shit</title>
+      <link>https://web.archive.org/web/20120428193015/http://jinfiesto.posterous.com/how-to-seem-good-at-everything-stop-doing-stu</link>
+      <guid isPermaLink="false">https://web.archive.org/web/20120428193015/http://jinfiesto.posterous.com/how-to-seem-good-at-everything-stop-doing-stu-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Same Stop (May 10, 2026)</title>
-      <link>https://www.engineersneedart.com/blog/samestop/samestop.html</link>
-      <guid isPermaLink="false">https://www.engineersneedart.com/blog/samestop/samestop.html-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Extreme Programming Explained</title>
+      <link>https://www.yosefk.com/blog/extreme-programming-explained.html</link>
+      <guid isPermaLink="false">https://www.yosefk.com/blog/extreme-programming-explained.html-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Diseconomies of scale in fraud, spam, support, and moderation (May 10, 2026)</title>
-      <link>https://danluu.com/diseconomies-scale/</link>
-      <guid isPermaLink="false">https://danluu.com/diseconomies-scale/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>All Success Is A Lagging Indicator - RyanHoliday.net</title>
+      <link>https://ryanholiday.net/all-success-is-a-lagging-indicator/?amp=1</link>
+      <guid isPermaLink="false">https://ryanholiday.net/all-success-is-a-lagging-indicator/?amp=1-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Complish (May 10, 2026)</title>
-      <link>https://complish.ai/</link>
-      <guid isPermaLink="false">https://complish.ai/-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Compiler Optimizations Are Hard Because They Forget - Faultlore</title>
+      <link>https://faultlore.com/blah/oops-that-was-important/</link>
+      <guid isPermaLink="false">https://faultlore.com/blah/oops-that-was-important/-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>Poincaré Embeddings for Learning Hierarchical Representations (May 10, 2026)</title>
-      <link>https://arxiv.org/abs/1705.08039</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/1705.08039-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Strategizing Your Multimillion-Dollar Retirement Plan | Ryan Valles | IK UpLevel MicroClass</title>
+      <link>https://m.youtube.com/watch?v=2_Hr-lqFAq0&feature=youtu.be</link>
+      <guid isPermaLink="false">https://m.youtube.com/watch?v=2_Hr-lqFAq0&feature=youtu.be-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
     <item>
-      <title>The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life (May 10, 2026)</title>
-      <link>https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970</link>
-      <guid isPermaLink="false">https://www.amazon.com/Folly-Fools-Logic-Deceit-Self-Deception/dp/0465085970-2026-05-10</guid>
-      <pubDate>Sun, 10 May 2026 02:31:18 GMT</pubDate>
-      <description>Resurfaced from your archives on May 10, 2026.</description>
+      <title>Premature Imitation and India's Flailing State</title>
+      <link>https://www.independent.org/pdf/tir/tir_24_2_01_rajagopalan.pdf</link>
+      <guid isPermaLink="false">https://www.independent.org/pdf/tir/tir_24_2_01_rajagopalan.pdf-2026-05-11</guid>
+      <pubDate>Mon, 11 May 2026 02:40:37 GMT</pubDate>
+      <description>Resurfaced from your archives on May 11, 2026.</description>
     </item>
 </channel>
 </rss>
